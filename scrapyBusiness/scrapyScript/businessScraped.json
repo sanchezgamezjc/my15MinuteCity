@@ -1,1 +1,3859 @@
-[]
+[
+  {
+    "name": [
+      "Transtesalia Sl. "
+    ],
+    "address": "Calle paris, 45 - p. ent pta. 3",
+    "type": "4939 - Otros tipos de transporte terrestre de pasajeros n.c.o.p."
+  },
+  {
+    "name": [
+      "Barte Llobarte S.l. "
+    ],
+    "address": "Calle arago, 174 - p. 19 pta. 1",
+    "type": "6831 - Agentes de la propiedad inmobiliaria"
+  },
+  {
+    "name": [
+      "Solucions De Zeidt S.l. "
+    ],
+    "address": "Calle moli, 98",
+    "type": "4690 - Comercio al por mayor no especializado"
+  },
+  {
+    "name": [
+      "Ute Toda&nel-lo Martell "
+    ],
+    "address": "Avenida diagonal, 520 - 5 2",
+    "type": "6910 - Actividades jur\u00eddicas"
+  },
+  {
+    "name": [
+      "Rehabilitaciones Juem S.l. "
+    ],
+    "address": "Calle josep sangenis, 108 - loc",
+    "type": "4121 - Construcci\u00f3n de edificios residenciales"
+  },
+  {
+    "name": [
+      "Nidzica S.l. "
+    ],
+    "address": "Plaza sant josep oriol, 6 - 2",
+    "type": "4775 - Comercio al por menor de productos cosm\u00e9ticos e higi\u00e9nicos en establecimientos especializados"
+  },
+  {
+    "name": [
+      "Cloud Accounting S.l. "
+    ],
+    "address": "Avenida diagonal, 458 - p. 7",
+    "type": "7022 - Otras actividades de consultor\u00eda de gesti\u00f3n empresarial"
+  },
+  {
+    "name": [
+      "Ute Terra Alta Fase Iii "
+    ],
+    "address": "Ronda guinardo, 99",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Ardo Trust Goods S.l. "
+    ],
+    "address": "Paseo peira, 16 - p. 5 pta. 4",
+    "type": "4631 - Comercio al por mayor de frutas y hortalizas"
+  },
+  {
+    "name": [
+      "Adextra Marketing S.l. "
+    ],
+    "address": "Calle ramon turro, 169 - p. 0",
+    "type": "7320 - Estudios de mercado y realizaci\u00f3n de encuestas de opini\u00f3n p\u00fablica"
+  },
+  {
+    "name": [
+      "Fcc Construccion Sa Servia Canto Sa Ute Variante De Sant Esteve D'en Bas Ley 18-1982 "
+    ],
+    "address": "Calle travessera de gracia, 58 - tercero 3",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Trucks For Events Sl "
+    ],
+    "address": "Calle sant gervasi de cassoles, 84 - esc a. piso 1. pta 1",
+    "type": "7490 - Otras actividades profesionales, cient\u00edficas y t\u00e9cnicas n.c.o.p."
+  },
+  {
+    "name": [
+      "R. Bin Noor Construcciones S.l. "
+    ],
+    "address": "Avenida rasos de peguera, 97 - p. 2 pta. 1",
+    "type": "6831 - Agentes de la propiedad inmobiliaria"
+  },
+  {
+    "name": [
+      "Coworknexus S.l. "
+    ],
+    "address": "Calle margarit, 42",
+    "type": "7022 - Otras actividades de consultor\u00eda de gesti\u00f3n empresarial"
+  },
+  {
+    "name": [
+      "Agt Construcciones Y Obras S.a. Y Peninsular De Asfaltos Y Construcciones S.a. Ute Ley 18 1982 "
+    ],
+    "address": "Calle mas casanovas, 46",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Resource Grup Communities And Homes Sl. "
+    ],
+    "address": "Avenida diagonal, 363 - p. 3 pta. 2",
+    "type": "6629 - Otras actividades auxiliares a seguros y fondos de pensiones"
+  },
+  {
+    "name": [
+      "Mrt Research Marketing & Development Consulting Sl "
+    ],
+    "address": "Calle travessera de dalt, 110 - 8 3",
+    "type": "7021 - Relaciones p\u00fablicas y comunicaci\u00f3n"
+  },
+  {
+    "name": [
+      "Gero Solar Energia Sl "
+    ],
+    "address": "Avenida diagonal, 520",
+    "type": "3519 - Producci\u00f3n de energ\u00eda el\u00e9ctrica de otros tipos"
+  },
+  {
+    "name": [
+      "Empresarial Inca S.l. "
+    ],
+    "address": "Calle pau claris, 184 - p. pr pta. 5",
+    "type": " - "
+  },
+  {
+    "name": [
+      "Bluska Serveis Xxi Sl "
+    ],
+    "address": "Rambla catalunya, 85",
+    "type": "6820 - Alquiler de bienes inmobiliarios por cuenta propia"
+  },
+  {
+    "name": [
+      "Ute Netaigua Bfi "
+    ],
+    "address": "Avenida diagonal, 211",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Institut Pablo R Picasso "
+    ],
+    "address": "Calle sant feliu de codines, 1",
+    "type": "9004 - Gesti\u00f3n de salas de espect\u00e1culos"
+  },
+  {
+    "name": [
+      "Trucker Restobar S.l. "
+    ],
+    "address": "Ronda sant antoni, 36 -38 piso 3 pta. 1",
+    "type": "5610 - Restaurantes y puestos de comidas"
+  },
+  {
+    "name": [
+      "Tea Cegos S. A. C. Consult Turist S. A. Ute "
+    ],
+    "address": "Calle milanesat, 25 - 27 5",
+    "type": "8299 - Otras actividades de apoyo a las empresas n.c.o.p."
+  },
+  {
+    "name": [
+      "Construcciones Especiales Y Dragados Sa Dragados Obras Y Proyectos Sa Construcciones Y Obras Publicas Y Civiles Sa Ute Depurbesos Ley 18/1982 "
+    ],
+    "address": "Calle via laietana, 33 - quinta plt",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Gestion De Comunidades De Inmobiliarias Con Diseno Sl. "
+    ],
+    "address": "Calle drago, 13",
+    "type": " - "
+  },
+  {
+    "name": [
+      "Nasol Park Sl "
+    ],
+    "address": "Calle teodora lamadrid, 14 - plt 3 . pta 2",
+    "type": "4110 - Promoci\u00f3n inmobiliaria"
+  },
+  {
+    "name": [
+      "Espatil Sa "
+    ],
+    "address": "Calle pinar del rio, 24 -26 p1 pta. 1",
+    "type": "6820 - Alquiler de bienes inmobiliarios por cuenta propia"
+  },
+  {
+    "name": [
+      "Ute Joncadella "
+    ],
+    "address": "Calle travessera de gracia, 58 - 3 3 a",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Taller Bugambilia Sl. "
+    ],
+    "address": "Calle bassols, 7 - bj",
+    "type": "2341 - Fabricaci\u00f3n de art\u00edculos cer\u00e1micos de uso dom\u00e9stico y ornamental"
+  },
+  {
+    "name": [
+      "Acsa Agbar Construccion Sa Benito Arno E Hijos Sa Ute Ter Trinitat "
+    ],
+    "address": "Ronda guinardo, 99",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Alonze 2016 Sl. "
+    ],
+    "address": "Avenida diagonal, 463 - pr 1",
+    "type": "4711 - Comercio al por menor en establecimientos no especializados, con predominio en productos alimenticios, bebidas y tabaco"
+  },
+  {
+    "name": [
+      "Asim Mobiles 2019 S.l. "
+    ],
+    "address": "Calle corral, 36 - 38 p 3 pta. 1",
+    "type": "4742 - Comercio al por menor de equipos de telecomunicaciones en establecimientos especializados"
+  },
+  {
+    "name": [
+      "Bcm Technical Institute Of Packaging Sl (extinguida) "
+    ],
+    "address": "Calle sant salvador, 131 - 4 d",
+    "type": "8543 - Educaci\u00f3n universitaria"
+  },
+  {
+    "name": [
+      "F X Casas Galofre M Sanchez Gomez Ute "
+    ],
+    "address": "Calle pi, 4 - 1",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Ute Vallbona "
+    ],
+    "address": "Calle arago, 295 - 7 1",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Ferrovial Agroman Sa Fcc Construccion Sa Construcciones Rubau Sa Edificio Terminal Ute Ley 18-1982 "
+    ],
+    "address": "Calle proven\u00e7a, 392 - 6",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Alkan Fibras S.l. "
+    ],
+    "address": "Calle proven\u00e7a, 220 - loc 2",
+    "type": "4641 - Comercio al por mayor de textiles"
+  },
+  {
+    "name": [
+      "Grupo Empresarial Mayhespi Sl "
+    ],
+    "address": "Calle mireia, 62 - esc b",
+    "type": "4751 - Comercio al por menor de textiles en establecimientos especializados"
+  },
+  {
+    "name": [
+      "Iqual Automocion Limpiezas Tecnicas Sl (extinguida) "
+    ],
+    "address": "Pasaje porta, 12 - loc",
+    "type": "9609 - Otros servicios personales n.c.o.p."
+  },
+  {
+    "name": [
+      "Ute Gelida "
+    ],
+    "address": "Calle comte d'urgell, 143 - 2 2",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Dragados Obras Y Proyectos Sa Necso Entrecanales Cubiertas Sa Comsa Sa Acs Proyectos Obras Y Construcciones Sa Sorigue Sa Ute Gorg Ley 18/1982 "
+    ],
+    "address": "Calle via laietana, 33 - 5",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Valdenova De Inversiones Sl (extinguida) "
+    ],
+    "address": "Paseo sant gervasi, 22 - esc a p 4 pta. 2",
+    "type": "4110 - Promoci\u00f3n inmobiliaria"
+  },
+  {
+    "name": [
+      "Germans Pequi S.l. "
+    ],
+    "address": "Calle paris, 97 - p. bj",
+    "type": "5610 - Restaurantes y puestos de comidas"
+  },
+  {
+    "name": [
+      "Ajardi Sl "
+    ],
+    "address": "Calle reina victoria, 28 - bj",
+    "type": "6820 - Alquiler de bienes inmobiliarios por cuenta propia"
+  },
+  {
+    "name": [
+      "Sam 69 Sl "
+    ],
+    "address": "Calle muntaner, 425 - piso 2. pta 2",
+    "type": "8299 - Otras actividades de apoyo a las empresas n.c.o.p."
+  },
+  {
+    "name": [
+      "Serveis Integrals De Manteniment Rubatec Sa Pridesa Proyectos Y Servicios Sa Pridesa Proyectos Y Servicios Sa Infilco Espanola Sa Ute Terciario Vendrell Ley 18-1982 "
+    ],
+    "address": "Calle doctor trueta, 13",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Jass Fincas Sl "
+    ],
+    "address": "Calle comte d'urgell (ent despatx 7), 151",
+    "type": "6920 - Actividades de contabilidad, tenedur\u00eda de libros, auditor\u00eda y asesor\u00eda fiscal"
+  },
+  {
+    "name": [
+      "Pipsant 96 Sl "
+    ],
+    "address": "Paseo sant joan, 111 - p. 5 pta. d",
+    "type": "4110 - Promoci\u00f3n inmobiliaria"
+  },
+  {
+    "name": [
+      "Cespa Compania Espanola De Servicios Publicos Auxiliares Sa Sa De Mantenimiento Obras Y Servicios Samos Sa Barakaldo Lv-rb Ute L "
+    ],
+    "address": "Calle gran via de les corts catalanes, 657",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "C P Juan Antonio Parera En Pza Eduardo Torroja 12 Generalitat De Catalunya "
+    ],
+    "address": "Plaza eduard torroja, 12",
+    "type": " - "
+  },
+  {
+    "name": [
+      "Control Y Montajes Industriales Cymi Sa Isolux Wat Sa Vimac Sa Ute Subestaciones Alp-planoles Ley 18-1982 "
+    ],
+    "address": "Calle sardenya, 397 - 1 4",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Bestdentlab S.l. "
+    ],
+    "address": "Calle casanova, 37 - esc iz p . ent pta. 4",
+    "type": "3250 - Fabricaci\u00f3n de instrumentos y suministros m\u00e9dicos y odontol\u00f3gicos"
+  },
+  {
+    "name": [
+      "Foodlus Solutions S.l. "
+    ],
+    "address": "Calle joan miro, 4",
+    "type": "6209 - Otros servicios relacionados con las tecnolog\u00edas de la informaci\u00f3n y la inform\u00e1tica"
+  },
+  {
+    "name": [
+      "Evan & Andrew Group S.l. "
+    ],
+    "address": "Calle deu i mata, 62 - 68 p 2 pta. 2",
+    "type": "8622 - Actividades de medicina especializada"
+  },
+  {
+    "name": [
+      "Fdlibeyp Slp (extinguida) "
+    ],
+    "address": "Calle l'emancipacio, 20 - 1 1",
+    "type": "8623 - Actividades odontol\u00f3gicas"
+  },
+  {
+    "name": [
+      "Cespa Cia Espa\u00f1ola De Serv Publicos Aux S.a. Cespa Gestion De Residuoss A Almanzora Ute Ley 18 1982 "
+    ],
+    "address": "Avenida catedral, 6",
+    "type": "3811 - Recogida de residuos no peligrosos"
+  },
+  {
+    "name": [
+      "Asistencia Global Centro 71 Sl "
+    ],
+    "address": "Calle gran via de les corts catalanes, 581 - lo 6",
+    "type": "8811 - Actividades de servicios sociales sin alojamiento para personas mayores"
+  },
+  {
+    "name": [
+      "Schiller Abogados Barcelona Slp "
+    ],
+    "address": "Rambla catalunya, 86 - 3 2",
+    "type": "6910 - Actividades jur\u00eddicas"
+  },
+  {
+    "name": [
+      "Falcus Inmobilien Investitions Anstalt Sa "
+    ],
+    "address": "Avenida diagonal, 550",
+    "type": " - "
+  },
+  {
+    "name": [
+      "Fobarq Estudio Sl "
+    ],
+    "address": "Calle josep serrano, 29 - in 5",
+    "type": "7490 - Otras actividades profesionales, cient\u00edficas y t\u00e9cnicas n.c.o.p."
+  },
+  {
+    "name": [
+      "Estrella Espana 2000 Sl. "
+    ],
+    "address": "Calle sardenya, 219 - loc",
+    "type": "4110 - Promoci\u00f3n inmobiliaria"
+  },
+  {
+    "name": [
+      "Puntifoli Sl "
+    ],
+    "address": "Avenida diagonal, 630 - p. 2 pta. 2",
+    "type": "9313 - Actividades de los gimnasios"
+  },
+  {
+    "name": [
+      "International Business Markets 2020 Sl. "
+    ],
+    "address": "Calle balmes, 76 - piso 3 pta 2",
+    "type": "6612 - Actividades de intermediaci\u00f3n en operaciones con valores y otros activos"
+  },
+  {
+    "name": [
+      "Pepperdog S.l. "
+    ],
+    "address": "Calle benet mateu, 40",
+    "type": "6831 - Agentes de la propiedad inmobiliaria"
+  },
+  {
+    "name": [
+      "Olmo Liber Sl. "
+    ],
+    "address": "Paseo sant joan, 109 - bj",
+    "type": "6820 - Alquiler de bienes inmobiliarios por cuenta propia"
+  },
+  {
+    "name": [
+      "Business Telecom Networks Sl (extinguida) "
+    ],
+    "address": "Paseo gracia, 21",
+    "type": "6190 - Otras actividades de telecomunicaciones"
+  },
+  {
+    "name": [
+      "Col Legi Public Uruguai Barcelona M E Y C "
+    ],
+    "address": "Calle vallirana, 2",
+    "type": " - "
+  },
+  {
+    "name": [
+      "Nueva Ortopedia Cr Sl "
+    ],
+    "address": "Calle garcilaso, 46",
+    "type": "4773 - Comercio al por menor de productos farmac\u00e9uticos en establecimientos especializados"
+  },
+  {
+    "name": [
+      "Grupo Kronomedia Siglo Xxi Sl "
+    ],
+    "address": "Calle arago, 208 - plt 1 . pta 1",
+    "type": "4690 - Comercio al por mayor no especializado"
+  },
+  {
+    "name": [
+      "Carolina Barcelona Locales Comerciales S.l. "
+    ],
+    "address": "Avenida meridiana, 257 - loc",
+    "type": "6810 - Compraventa de bienes inmobiliarios por cuenta propia"
+  },
+  {
+    "name": [
+      "Playon Studio S.l. "
+    ],
+    "address": "Plaza comercial, 5 - p. 1 pta. 2",
+    "type": "5915 - Actividades de producci\u00f3n cinematogr\u00e1fica y de v\u00eddeo"
+  },
+  {
+    "name": [
+      "Inversiones Y Desarrollos Peninsulares Xxi S.l. "
+    ],
+    "address": "Avenida diagonal, 441 - p. 2",
+    "type": "6810 - Compraventa de bienes inmobiliarios por cuenta propia"
+  },
+  {
+    "name": [
+      "Power Excelent Sl. "
+    ],
+    "address": "Calle tuset, 23 - p. 4",
+    "type": "4110 - Promoci\u00f3n inmobiliaria"
+  },
+  {
+    "name": [
+      "Ajut Assistencial Radio Taxi S.c.c.l. "
+    ],
+    "address": "Calle valldemossa, 34 - bajo 6",
+    "type": "8299 - Otras actividades de apoyo a las empresas n.c.o.p."
+  },
+  {
+    "name": [
+      "Elimu Ventures S.l. "
+    ],
+    "address": "Avenida sarria, 137 - 139 esc. a, p. ent",
+    "type": "6420 - Actividades de las sociedades holding"
+  },
+  {
+    "name": [
+      "Zedway Sa "
+    ],
+    "address": "Calle bori i fontesta, 12 - 3\u00b0 2",
+    "type": "6820 - Alquiler de bienes inmobiliarios por cuenta propia"
+  },
+  {
+    "name": [
+      "Gestigray Logistica S.l. "
+    ],
+    "address": "Calle de parcerisa, 13",
+    "type": " - "
+  },
+  {
+    "name": [
+      "Martin-frontaura Sl. "
+    ],
+    "address": "Avenida diagonal, 173 - loc b",
+    "type": "6810 - Compraventa de bienes inmobiliarios por cuenta propia"
+  },
+  {
+    "name": [
+      "C Art Sl "
+    ],
+    "address": "Calle bruc, 123 - ent",
+    "type": "4778 - Otro comercio al por menor de art\u00edculos nuevos en establecimientos especializados"
+  },
+  {
+    "name": [
+      "La Veronal Sl. "
+    ],
+    "address": "Calle diputacio, 271 - p. 2 pta. 1",
+    "type": "9004 - Gesti\u00f3n de salas de espect\u00e1culos"
+  },
+  {
+    "name": [
+      "Doba Serveis I Manteniment Sl (extinguida) "
+    ],
+    "address": "Calle del putxet, 31 - piso 3 pta. 2",
+    "type": "3312 - Reparaci\u00f3n de maquinaria"
+  },
+  {
+    "name": [
+      "Automata Consulting S.l. "
+    ],
+    "address": "Calle massens, 3 - p. 1 pta. 2",
+    "type": "6202 - Actividades de consultor\u00eda inform\u00e1tica"
+  },
+  {
+    "name": [
+      "Maker Concept S.l. "
+    ],
+    "address": "Calle serrano, 48 - loc 4",
+    "type": "1812 - Otras actividades de impresi\u00f3n y artes gr\u00e1ficas"
+  },
+  {
+    "name": [
+      "Serveis Integrals De Manteniment Rubatec Sa Pridesa Proyectos Y Servicios Sa Ute Ley 18-1982 "
+    ],
+    "address": "Calle doctor trueta, 13",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Levante Deluxe Venture S.l. "
+    ],
+    "address": "Calle casp, 64 - p. 4 pta. 2",
+    "type": "5610 - Restaurantes y puestos de comidas"
+  },
+  {
+    "name": [
+      "Manoverde Hemp Store S.l. "
+    ],
+    "address": "Calle jaume giralt, 53 - loc",
+    "type": "4776 - Comercio al por menor de flores, plantas, semillas, fertilizantes, animales de compa\u00f1\u00eda y alimentos para los mismos en establecimientos especializados"
+  },
+  {
+    "name": [
+      "Hochspannung Iberica S.l. "
+    ],
+    "address": "Calle de parcerisa, 13",
+    "type": "4614 - Intermediarios del comercio de maquinaria, equipo industrial, embarcaciones y aeronaves"
+  },
+  {
+    "name": [
+      "Bio Amber Oil S.l. "
+    ],
+    "address": "Calle travessera de gracia, 56 - p. 3 pta. 1",
+    "type": "4671 - Comercio al por mayor de combustibles s\u00f3lidos, l\u00edquidos y gaseosos, y productos similares"
+  },
+  {
+    "name": [
+      "International Health Brands S.l. "
+    ],
+    "address": "Calle numero 60 (pol.ind. zona franca), 14 - sector a",
+    "type": "2110 - Fabricaci\u00f3n de productos farmac\u00e9uticos de base"
+  },
+  {
+    "name": [
+      "Kiddys Place Sl. "
+    ],
+    "address": "Calle alfons xii, 24 - p. 1 pta. 1",
+    "type": "4641 - Comercio al por mayor de textiles"
+  },
+  {
+    "name": [
+      "Something Big Sl. "
+    ],
+    "address": "Plaza urquinaona, 6 - p. 11 pta. d",
+    "type": "6832 - Gesti\u00f3n y administraci\u00f3n de la propiedad inmobiliaria"
+  },
+  {
+    "name": [
+      "Elte International School Sl. "
+    ],
+    "address": "Calle sardenya, 222 - p. 4 pta. 2",
+    "type": "7430 - Actividades de traducci\u00f3n e interpretaci\u00f3n"
+  },
+  {
+    "name": [
+      "Emte S.a. Teyco S.l. Acsa Obras E Infraestructuras Sa Union Temporal De Empresas Ley 18/1982 "
+    ],
+    "address": "Ronda guinardo, 99",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "San Antonio Torre Investment Group Sl (extinguida) "
+    ],
+    "address": "Calle escoles pies, 3 - esc a pta 1. plt 6.",
+    "type": "6420 - Actividades de las sociedades holding"
+  },
+  {
+    "name": [
+      "Zeldzaam Sl. "
+    ],
+    "address": "Calle viladomat, 15 - bj",
+    "type": "4779 - Comercio al por menor de art\u00edculos de segunda mano en establecimientos especializados"
+  },
+  {
+    "name": [
+      "Gorilla Monsoon S.l. "
+    ],
+    "address": "Plaza tetuan, 31 - loc",
+    "type": "4711 - Comercio al por menor en establecimientos no especializados, con predominio en productos alimenticios, bebidas y tabaco"
+  },
+  {
+    "name": [
+      "Ratmisoma Sl "
+    ],
+    "address": "Calle beltran i rozpide, 8 - 6 2",
+    "type": "1320 - Fabricaci\u00f3n de tejidos textiles"
+  },
+  {
+    "name": [
+      "Sashalala Sl. "
+    ],
+    "address": "Calle mare de deu de lorda, 61",
+    "type": "5610 - Restaurantes y puestos de comidas"
+  },
+  {
+    "name": [
+      "Hadusa Lem Corp Sl. "
+    ],
+    "address": "Calle travessera de gracia, 56 - p. 3 pta. 3",
+    "type": "8299 - Otras actividades de apoyo a las empresas n.c.o.p."
+  },
+  {
+    "name": [
+      "Asia Global Import Export S.l. "
+    ],
+    "address": "Calle mallorca, 505 - p. 5 pta. 3",
+    "type": "4617 - Intermediarios del comercio de productos alimenticios, bebidas y tabaco"
+  },
+  {
+    "name": [
+      "Sonapa 4 S.l. "
+    ],
+    "address": "Calle creu dels molers, 44 - pr 2",
+    "type": " - "
+  },
+  {
+    "name": [
+      "Net Universe Europa Sl. "
+    ],
+    "address": "Calle peru, 104 - nav 4",
+    "type": "4651 - Comercio al por mayor de ordenadores, equipos perif\u00e9ricos y programas inform\u00e1ticos"
+  },
+  {
+    "name": [
+      "L'oliva Pelayo Sl. "
+    ],
+    "address": "Calle gravina, 5 - 7",
+    "type": " - "
+  },
+  {
+    "name": [
+      "Argent Invest S.l. "
+    ],
+    "address": "Calle valencia, 268 - 2 pr pta",
+    "type": "7022 - Otras actividades de consultor\u00eda de gesti\u00f3n empresarial"
+  },
+  {
+    "name": [
+      "Samudra S.l. "
+    ],
+    "address": "Avenida meridiana, 119 - bis, loc",
+    "type": "9602 - Peluquer\u00eda y otros tratamientos de belleza"
+  },
+  {
+    "name": [
+      "Research Marks Analytics S.l. "
+    ],
+    "address": "Calle pallars, 193",
+    "type": "6311 - Proceso de datos, hosting y actividades relacionadas"
+  },
+  {
+    "name": [
+      "New Venezia 2015 Sl. "
+    ],
+    "address": "Calle valencia, 447 - bj",
+    "type": "9602 - Peluquer\u00eda y otros tratamientos de belleza"
+  },
+  {
+    "name": [
+      "Rumble Fish Sl. "
+    ],
+    "address": "Calle casanova, 32 - p. 4 pta. 3",
+    "type": "9004 - Gesti\u00f3n de salas de espect\u00e1culos"
+  },
+  {
+    "name": [
+      "Segundosaque S.l. "
+    ],
+    "address": "Calle gonzalez tablas, 17",
+    "type": "7490 - Otras actividades profesionales, cient\u00edficas y t\u00e9cnicas n.c.o.p."
+  },
+  {
+    "name": [
+      "Proinosa Ref Sl (extinguida) "
+    ],
+    "address": "Calle santissima trinitat mont, 10",
+    "type": "6420 - Actividades de las sociedades holding"
+  },
+  {
+    "name": [
+      "Onfial System Sl (extinguida) "
+    ],
+    "address": "Rambla catalunya, 53 - 55 plt 5",
+    "type": "6832 - Gesti\u00f3n y administraci\u00f3n de la propiedad inmobiliaria"
+  },
+  {
+    "name": [
+      "Shoaling Latam S.l. "
+    ],
+    "address": "Calle fastenrath, 122 - piso 1 pta. 2",
+    "type": "4642 - Comercio al por mayor de prendas de vestir y calzado"
+  },
+  {
+    "name": [
+      "Mrmashi19 S.l. "
+    ],
+    "address": "Calle aribau, 168 - p. 1 pta. 1",
+    "type": "3092 - Fabricaci\u00f3n de bicicletas y de veh\u00edculos para personas con discapacidad"
+  },
+  {
+    "name": [
+      "Immomaragall Sl. "
+    ],
+    "address": "Paseo maragall, 135 - loc 1",
+    "type": "6832 - Gesti\u00f3n y administraci\u00f3n de la propiedad inmobiliaria"
+  },
+  {
+    "name": [
+      "Berzosa De Inversiones Sl (extinguida) "
+    ],
+    "address": "Calle angli, 92",
+    "type": "4672 - Comercio al por mayor de metales y minerales met\u00e1licos"
+  },
+  {
+    "name": [
+      "Godgrace Reciclajes Ecologicos S.l. "
+    ],
+    "address": "Calle sant pau, 113",
+    "type": "4754 - Comercio al por menor de aparatos electrodom\u00e9sticos en establecimientos especializados"
+  },
+  {
+    "name": [
+      "Hestia Pgsv S.l. "
+    ],
+    "address": "Calle arago, 153 - p. 5 pta. 2",
+    "type": "6810 - Compraventa de bienes inmobiliarios por cuenta propia"
+  },
+  {
+    "name": [
+      "Ibm Ibm Gse Insa Ibm Gse Ros Ute 18 "
+    ],
+    "address": "Paseo gracia, 2 - 4",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Patimar Invest S.l. "
+    ],
+    "address": "Calle morales, 27 - k",
+    "type": "6831 - Agentes de la propiedad inmobiliaria"
+  },
+  {
+    "name": [
+      "Parque Solar Energy Node 04 S.l. "
+    ],
+    "address": "Avenida de j.v.foix, 72 - loc 5 b",
+    "type": "3515 - Producci\u00f3n de energ\u00eda hidroel\u00e9ctrica"
+  },
+  {
+    "name": [
+      "Sheyla Torres S.l. "
+    ],
+    "address": "Calle jaume roig, 10 - p. 2 pta. 3",
+    "type": "4639 - Comercio al por mayor, no especializado, de productos alimenticios, bebidas y tabaco"
+  },
+  {
+    "name": [
+      "Family Nest Capital S.l. "
+    ],
+    "address": "Paseo gracia, 95 - p. 5 pta. 1",
+    "type": "6810 - Compraventa de bienes inmobiliarios por cuenta propia"
+  },
+  {
+    "name": [
+      "Miavion Sl. "
+    ],
+    "address": "Calle llull, 51 - p. 4 pta. 3",
+    "type": "9004 - Gesti\u00f3n de salas de espect\u00e1culos"
+  },
+  {
+    "name": [
+      "Jackfusters Sl. "
+    ],
+    "address": "Calle gosol, 37 - bj 2",
+    "type": "4122 - Construcci\u00f3n de edificios no residenciales"
+  },
+  {
+    "name": [
+      "Bachata Y Salsa Sl. "
+    ],
+    "address": "Calle gelida, 1 - p. 9 pta. 1",
+    "type": "8559 - Otra educaci\u00f3n n.c.o.p."
+  },
+  {
+    "name": [
+      "Acsa Obras E Infr. Sau-crc Obras Servicios Sl-agusti Y Masoliver S.a. Union Temporal De Empresas "
+    ],
+    "address": "Ronda guinardo, 99",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Boreal S.c.c.l. "
+    ],
+    "address": "Calle corsega (en b), 663",
+    "type": "4941 - Transporte de mercanc\u00edas por carretera"
+  },
+  {
+    "name": [
+      "Iberse\u00f1al Catalunya Sl "
+    ],
+    "address": "Calle arago, 403 - ent 3",
+    "type": "2599 - Fabricaci\u00f3n de otros productos met\u00e1licos n.c.o.p."
+  },
+  {
+    "name": [
+      "Magnifique Iberia Sl. "
+    ],
+    "address": "Calle castanyer, 4 - esc a",
+    "type": "4791 - Comercio al por menor por correspondencia o Internet"
+  },
+  {
+    "name": [
+      "Borwankar Schmidt Sl "
+    ],
+    "address": "Calle via augusta, 33 - plt 2 . pta 1",
+    "type": "7022 - Otras actividades de consultor\u00eda de gesti\u00f3n empresarial"
+  },
+  {
+    "name": [
+      "Club De Pitch And Putt Barcelona-teia S.l. "
+    ],
+    "address": "Calle salvador espriu, 65 - p. 2 pta. 1",
+    "type": "9311 - Gesti\u00f3n de instalaciones deportivas"
+  },
+  {
+    "name": [
+      "Ambbar Formacion Odontologica S.l. "
+    ],
+    "address": "Calle consell de cent, 194 - loc",
+    "type": "8544 - Educaci\u00f3n terciaria no universitaria"
+  },
+  {
+    "name": [
+      "Matior Group Grm S.l. "
+    ],
+    "address": "Plaza comer\u00e7, 4 - piso 3",
+    "type": "6810 - Compraventa de bienes inmobiliarios por cuenta propia"
+  },
+  {
+    "name": [
+      "Easy 4 Business Sl. "
+    ],
+    "address": "Plaza urquinaona, 6 - 11 d",
+    "type": "6612 - Actividades de intermediaci\u00f3n en operaciones con valores y otros activos"
+  },
+  {
+    "name": [
+      "Jaynal Abedin 2019 S.l. "
+    ],
+    "address": "Calle malnom, 11",
+    "type": "4122 - Construcci\u00f3n de edificios no residenciales"
+  },
+  {
+    "name": [
+      "Ana Villena Barjau Olga Tubau Martinez "
+    ],
+    "address": "Rambla catalunya, 5 - 3 2",
+    "type": "6910 - Actividades jur\u00eddicas"
+  },
+  {
+    "name": [
+      "Registrar Marcas S.l. "
+    ],
+    "address": "Calle l'hort de la vila, 43 - 2 2",
+    "type": "6832 - Gesti\u00f3n y administraci\u00f3n de la propiedad inmobiliaria"
+  },
+  {
+    "name": [
+      "Garriga & Canela 2g Sl "
+    ],
+    "address": "Calle balmes, 228 - 5 1",
+    "type": "4121 - Construcci\u00f3n de edificios residenciales"
+  },
+  {
+    "name": [
+      "Citi Trends S.l. "
+    ],
+    "address": "Calle sant rafael, 16 - piso 4 pta. 1",
+    "type": "4719 - Otro comercio al por menor en establecimientos no especializados"
+  },
+  {
+    "name": [
+      "Felicredit S.l. "
+    ],
+    "address": "Calle coronel sanfeliu, 18 - piso bj pta. 2",
+    "type": "6619 - Otras actividades auxiliares a los servicios financieros, excepto seguros y fondos de pensiones"
+  },
+  {
+    "name": [
+      "Vilcab Sl "
+    ],
+    "address": "Calle gustavo becquer, 40",
+    "type": "6832 - Gesti\u00f3n y administraci\u00f3n de la propiedad inmobiliaria"
+  },
+  {
+    "name": [
+      "Darial 7920 S.l. "
+    ],
+    "address": "Calle angli, 7 - p. 3 pta. 2",
+    "type": "6420 - Actividades de las sociedades holding"
+  },
+  {
+    "name": [
+      "Aufalen Sl "
+    ],
+    "address": "Calle aribau, 237 - 4 2",
+    "type": "6820 - Alquiler de bienes inmobiliarios por cuenta propia"
+  },
+  {
+    "name": [
+      "Ezego Global Company S.l. "
+    ],
+    "address": "Calle garcilaso, 180 - p. 2 pta. 1",
+    "type": "6810 - Compraventa de bienes inmobiliarios por cuenta propia"
+  },
+  {
+    "name": [
+      "Giralt Bou Promocions Sl (extinguida) "
+    ],
+    "address": "Calle torrent de les flors, 29",
+    "type": "4110 - Promoci\u00f3n inmobiliaria"
+  },
+  {
+    "name": [
+      "Area Movement S.l. "
+    ],
+    "address": "Calle llull, 63 - bis bj",
+    "type": "8551 - Educaci\u00f3n deportiva y recreativa"
+  },
+  {
+    "name": [
+      "Caribbean Yummy S.l. "
+    ],
+    "address": "Avenida madrid, 1 - p. 2 pta. 2 b",
+    "type": "5610 - Restaurantes y puestos de comidas"
+  },
+  {
+    "name": [
+      "Albirem Sustainability S.l. "
+    ],
+    "address": "Calle sants, 71 - p. 1 pta. 6",
+    "type": "7490 - Otras actividades profesionales, cient\u00edficas y t\u00e9cnicas n.c.o.p."
+  },
+  {
+    "name": [
+      "Elsa Aranguren Perruquers S.l. "
+    ],
+    "address": "Paseo sant joan bosco, 47 -49",
+    "type": "9602 - Peluquer\u00eda y otros tratamientos de belleza"
+  },
+  {
+    "name": [
+      "Sohaib & Zohra S.l. "
+    ],
+    "address": "Paseo maragall, 200 - loc 2 b",
+    "type": "9602 - Peluquer\u00eda y otros tratamientos de belleza"
+  },
+  {
+    "name": [
+      "Arreglafacil S.l. "
+    ],
+    "address": "Calle gran via de les corts catalanes, 596 - p. bj",
+    "type": "4121 - Construcci\u00f3n de edificios residenciales"
+  },
+  {
+    "name": [
+      "Onlean S.l. "
+    ],
+    "address": "Calle peris i mencheta, 41 - p. 2 pta. 1",
+    "type": "6201 - Actividades de programaci\u00f3n inform\u00e1tica"
+  },
+  {
+    "name": [
+      "Jaiper Comercial 2019 S.l. "
+    ],
+    "address": "Calle via augusta, 29 - 31",
+    "type": "4619 - Intermediarios del comercio de productos diversos"
+  },
+  {
+    "name": [
+      "Manager Planet Sl. "
+    ],
+    "address": "Calle balmes, 387 - p. 1 pta. 1",
+    "type": "4110 - Promoci\u00f3n inmobiliaria"
+  },
+  {
+    "name": [
+      "Inmuebles Verticales Sl. "
+    ],
+    "address": "Calle rossello, 244 - p. 1 pta. 1",
+    "type": "4110 - Promoci\u00f3n inmobiliaria"
+  },
+  {
+    "name": [
+      "Lily Sanco Sl. "
+    ],
+    "address": "Calle bosch i gimpera, 20 - p. 3 pta. 2",
+    "type": "7311 - Agencias de publicidad"
+  },
+  {
+    "name": [
+      "Instalaciones Y Servicios European Group Sl. "
+    ],
+    "address": "Calle santander (ed a), 101 - p 1 pta. 2",
+    "type": " - "
+  },
+  {
+    "name": [
+      "El Drac Gelat Sl "
+    ],
+    "address": "Calle muntaner, 13 - plt 1 . pta 1",
+    "type": "4711 - Comercio al por menor en establecimientos no especializados, con predominio en productos alimenticios, bebidas y tabaco"
+  },
+  {
+    "name": [
+      "Fibsa Fiber Facilities S.l. "
+    ],
+    "address": "Calle francesc tarrega, 47 - p. ent pta. 4",
+    "type": "4321 - Instalaciones el\u00e9ctricas"
+  },
+  {
+    "name": [
+      "Oribex Solutions S.l. "
+    ],
+    "address": "Calle rossello, 188 - at c",
+    "type": "6831 - Agentes de la propiedad inmobiliaria"
+  },
+  {
+    "name": [
+      "Servicios Lopez Auxiliares Sl. "
+    ],
+    "address": "Calle navas de tolosa, 283 - loc 8",
+    "type": " - "
+  },
+  {
+    "name": [
+      "Brujo Raval Sl. "
+    ],
+    "address": "Calle comte de salvatierra, 10 - p. 2 pta. 1",
+    "type": "6820 - Alquiler de bienes inmobiliarios por cuenta propia"
+  },
+  {
+    "name": [
+      "Smart Plus Real Estate International Sl. (extinguida) "
+    ],
+    "address": "Calle major de sarria, 119",
+    "type": "4110 - Promoci\u00f3n inmobiliaria"
+  },
+  {
+    "name": [
+      "Estudio Via Julia 2018 S.l. "
+    ],
+    "address": "Calle via julia, 72 - 74 loc",
+    "type": "4110 - Promoci\u00f3n inmobiliaria"
+  },
+  {
+    "name": [
+      "Movimiento Creativo Sl. "
+    ],
+    "address": "Calle font honrada, 43 - p. 3 pta. 2",
+    "type": "8559 - Otra educaci\u00f3n n.c.o.p."
+  },
+  {
+    "name": [
+      "Promotec 5000 Sl (extinguida) "
+    ],
+    "address": "Rambla catalunya, 53 - 55",
+    "type": "7022 - Otras actividades de consultor\u00eda de gesti\u00f3n empresarial"
+  },
+  {
+    "name": [
+      "Gpo S. A. Grup Enginyers S. A. Ute En Constit "
+    ],
+    "address": "Calle arago, 390",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Kadebec S.l. "
+    ],
+    "address": "Calle corsega, 429",
+    "type": "6820 - Alquiler de bienes inmobiliarios por cuenta propia"
+  },
+  {
+    "name": [
+      "Las Ca\u00f1adas Dos Sl (extinguida) "
+    ],
+    "address": "Rambla catalunya, 53",
+    "type": "6820 - Alquiler de bienes inmobiliarios por cuenta propia"
+  },
+  {
+    "name": [
+      "Residencia Cataluna 2000 Sociedad Anonima. "
+    ],
+    "address": "Calle chopin, 3 - td 5",
+    "type": "5610 - Restaurantes y puestos de comidas"
+  },
+  {
+    "name": [
+      "Talar Solar S.l. "
+    ],
+    "address": "Rambla catalunya, 52 - piso 4",
+    "type": "3519 - Producci\u00f3n de energ\u00eda el\u00e9ctrica de otros tipos"
+  },
+  {
+    "name": [
+      "Mirtel Xxi Sl (extinguida) "
+    ],
+    "address": "Calle muntaner, 425 - piso 2. pta 2",
+    "type": "4619 - Intermediarios del comercio de productos diversos"
+  },
+  {
+    "name": [
+      "La Pajarilla Sl "
+    ],
+    "address": "Calle rocafort, 239",
+    "type": "0113 - Cultivo de hortalizas, ra\u00edces y tub\u00e9rculos"
+  },
+  {
+    "name": [
+      "Sa De Trabajos Y Obras S.a. Y Acciona Infraestructuras S.a. Ute L-18 82 Ute Port Roda "
+    ],
+    "address": "Calle tarragona, 149 - 15",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Ute Israel De Las Heras Bengoa Sonia Pastor Gomez "
+    ],
+    "address": "Avenida diagonal, 75 - 1 4",
+    "type": "7112 - Servicios t\u00e9cnicos de ingenier\u00eda y otras actividades relacionadas con el asesoramiento t\u00e9cnico"
+  },
+  {
+    "name": [
+      "Escu\u00f1au 2008 Sl "
+    ],
+    "address": "Calle via augusta, 48 - 54 p 3 pta. 1",
+    "type": "7490 - Otras actividades profesionales, cient\u00edficas y t\u00e9cnicas n.c.o.p."
+  },
+  {
+    "name": [
+      "Serveis Esportius 2008 Sl (extinguida) "
+    ],
+    "address": "Calle pujol, 22 - entresuelo d",
+    "type": "9311 - Gesti\u00f3n de instalaciones deportivas"
+  },
+  {
+    "name": [
+      "Instal\u00b7lacions Jofra S.c.c.l. "
+    ],
+    "address": "Calle pare lainez, 48",
+    "type": "4329 - Otras instalaciones en obras de construcci\u00f3n"
+  },
+  {
+    "name": [
+      "Trip Experts S.l. "
+    ],
+    "address": "Calle medes, 4 - 6, loc",
+    "type": "7911 - Actividades de las agencias de viajes"
+  },
+  {
+    "name": [
+      "Gre Development S.l. "
+    ],
+    "address": "Calle rocafort, 39 - esc iz, ent 6",
+    "type": "6420 - Actividades de las sociedades holding"
+  },
+  {
+    "name": [
+      "Trieurostudio S.l. "
+    ],
+    "address": "Calle ausias marc, 26 - p. 6 pta. 61",
+    "type": "7410 - Actividades de dise\u00f1o especializado"
+  },
+  {
+    "name": [
+      "Yafrat Urban S.l. "
+    ],
+    "address": "Calle cardenal vives i tuto, 41 - ent 10",
+    "type": "6831 - Agentes de la propiedad inmobiliaria"
+  },
+  {
+    "name": [
+      "Repair & Refit Sl "
+    ],
+    "address": "Calle aribau, 168 -170 plt 1 pta 1",
+    "type": "3315 - Reparaci\u00f3n y mantenimiento naval"
+  },
+  {
+    "name": [
+      "Mcl Tripserv Sl "
+    ],
+    "address": "Calle bailen, 119 - at pta 1",
+    "type": "6820 - Alquiler de bienes inmobiliarios por cuenta propia"
+  },
+  {
+    "name": [
+      "Fapquer Sl "
+    ],
+    "address": "Avenida diagonal, 520 - 4 2 b",
+    "type": "3519 - Producci\u00f3n de energ\u00eda el\u00e9ctrica de otros tipos"
+  },
+  {
+    "name": [
+      "Pavimentos Barcelona S. A. Panasfalto S. A. U. "
+    ],
+    "address": "Calle pedro i pons, 9 - 6 3",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Eventum Executive Solutions Sl "
+    ],
+    "address": "Rambla catalunya, 38 - plt 8",
+    "type": "8299 - Otras actividades de apoyo a las empresas n.c.o.p."
+  },
+  {
+    "name": [
+      "Talk About Important S.l. "
+    ],
+    "address": "Calle tuset, 23 - 25 p. 4",
+    "type": "4639 - Comercio al por mayor, no especializado, de productos alimenticios, bebidas y tabaco"
+  },
+  {
+    "name": [
+      "Mind's Universe S.l. "
+    ],
+    "address": "Calle villarroel, 216 - p. 3 pta. 2",
+    "type": "6010 - Actividades de radiodifusi\u00f3n"
+  },
+  {
+    "name": [
+      "Albafarm Sl (extinguida) "
+    ],
+    "address": "Calle enten\u00e7a, 34",
+    "type": "4774 - Comercio al por menor de art\u00edculos m\u00e9dicos y ortop\u00e9dicos en establecimientos especializados"
+  },
+  {
+    "name": [
+      "Unio De Federacions Esportives Catalanes Ufec Ge A F E Sl Ute L'escala Ley 18-182 "
+    ],
+    "address": "Rambla catalunya, 81 - pp",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Nortons Iberica Sl (extinguida) "
+    ],
+    "address": "Calle balmes, 431 - plt 2 2",
+    "type": "4642 - Comercio al por mayor de prendas de vestir y calzado"
+  },
+  {
+    "name": [
+      "Vanlen Corporation S.l. "
+    ],
+    "address": "Calle balmes, 262 - plt 4 . pta 1",
+    "type": "4110 - Promoci\u00f3n inmobiliaria"
+  },
+  {
+    "name": [
+      "Oddity Brewing S.l. "
+    ],
+    "address": "Calle gran via de les corts catalanes, 289 - esc 1 p 7",
+    "type": "4617 - Intermediarios del comercio de productos alimenticios, bebidas y tabaco"
+  },
+  {
+    "name": [
+      "Asesmovil Consult Sl "
+    ],
+    "address": "Calle diputacio, 188 - ent d 116",
+    "type": "7320 - Estudios de mercado y realizaci\u00f3n de encuestas de opini\u00f3n p\u00fablica"
+  },
+  {
+    "name": [
+      "Agrosolutions Iberica S.l. "
+    ],
+    "address": "Calle roc boronat, 147 - p. 10",
+    "type": "4661 - Comercio al por mayor de maquinaria, equipos y suministros agr\u00edcolas"
+  },
+  {
+    "name": [
+      "Ute Cerdanyola 1413 Ley 18 / 1982 "
+    ],
+    "address": "Avenida diagonal, 427 - 429 tercera planta",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Consorci Administracio Oberta De Catalunya "
+    ],
+    "address": "Calle tanger, 98 - planta baja",
+    "type": "6203 - Gesti\u00f3n de recursos inform\u00e1ticos"
+  },
+  {
+    "name": [
+      "Influx Animation S.l. "
+    ],
+    "address": "Calle napols, 187 - p. 6",
+    "type": "5915 - Actividades de producci\u00f3n cinematogr\u00e1fica y de v\u00eddeo"
+  },
+  {
+    "name": [
+      "Casabona Importaciones Sl "
+    ],
+    "address": "Ronda general mitre, 102 - bis loc a",
+    "type": "4649 - Comercio al por mayor de otros art\u00edculos de uso dom\u00e9stico"
+  },
+  {
+    "name": [
+      "Salbucla S.l. "
+    ],
+    "address": "Calle travessera de gracia, 10 - p. 7",
+    "type": "6420 - Actividades de las sociedades holding"
+  },
+  {
+    "name": [
+      "Sinergia Empresa 2010 S.l. "
+    ],
+    "address": "Calle calabria, 202 - p. ent pta. a",
+    "type": "7022 - Otras actividades de consultor\u00eda de gesti\u00f3n empresarial"
+  },
+  {
+    "name": [
+      "Barberacademy S.l. "
+    ],
+    "address": "Calle pintor fortuny, 10",
+    "type": "9602 - Peluquer\u00eda y otros tratamientos de belleza"
+  },
+  {
+    "name": [
+      "Agecat Produccions I Parc Serveis S.l. "
+    ],
+    "address": "Calle gran via carles iii, 86",
+    "type": "7022 - Otras actividades de consultor\u00eda de gesti\u00f3n empresarial"
+  },
+  {
+    "name": [
+      "Corporacion Gili Ripoll Sl "
+    ],
+    "address": "Calle aribau, 324 - 4 1",
+    "type": "7490 - Otras actividades profesionales, cient\u00edficas y t\u00e9cnicas n.c.o.p."
+  },
+  {
+    "name": [
+      "Tusquets Sanfeliu Y Twose Ginecologia Y Obstetricia Slp "
+    ],
+    "address": "Calle vilana, 12 - 1 41",
+    "type": "8621 - Actividades de medicina general"
+  },
+  {
+    "name": [
+      "Soluciones Mecanicas Y Tecnicas Sl "
+    ],
+    "address": "Avenida josep tarradellas, 13 - p. ent pta. 2",
+    "type": "6420 - Actividades de las sociedades holding"
+  },
+  {
+    "name": [
+      "Punto D Vista Distribucion Sl "
+    ],
+    "address": "Calle aribau, 257",
+    "type": "6820 - Alquiler de bienes inmobiliarios por cuenta propia"
+  },
+  {
+    "name": [
+      "Ute Vialex Axima Acsa Distribucion "
+    ],
+    "address": "Calle gran via de les corts catalanes, 670 - 3",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Ute Mcs Ii Dac Enviro S.l. Proiectum Civitas Ingenieria Civil S.l. Fj Estal Malillos "
+    ],
+    "address": "Avenida josep tarradellas, 15 - ent 3 a",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Management As A Service Advisors 2020 S.l. "
+    ],
+    "address": "Calle calatrava, 25 - p. 3 pta. 2",
+    "type": "7022 - Otras actividades de consultor\u00eda de gesti\u00f3n empresarial"
+  },
+  {
+    "name": [
+      "Iya Bertikala S.l. "
+    ],
+    "address": "Avenida diagonal, 539 - p. 4 pta. iz",
+    "type": "4399 - Otras actividades de construcci\u00f3n especializada n.c.o.p."
+  },
+  {
+    "name": [
+      "Queen Sabadell 2018 S.l. "
+    ],
+    "address": "Plaza espanya, 8",
+    "type": "5630 - Establecimientos de bebidas"
+  },
+  {
+    "name": [
+      "Mytheresa.com Gmbh Sucursal En Espa\u00f1a. "
+    ],
+    "address": "Rambla catalunya, 53 -55, 3",
+    "type": "8299 - Otras actividades de apoyo a las empresas n.c.o.p."
+  },
+  {
+    "name": [
+      "Gesgeser Sl "
+    ],
+    "address": "Calle numancia, 94 - pta 4 . esc a plt 8",
+    "type": "4619 - Intermediarios del comercio de productos diversos"
+  },
+  {
+    "name": [
+      "Dragados Sa Tecsa Empresa Constructora Sa Ute Sants Ley 18-1982 "
+    ],
+    "address": "Calle via laietana, 33 - 5",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "A B G Executiva Juridica I De Gestio S.l. "
+    ],
+    "address": "Calle septimania, 59 - bj 3",
+    "type": "7490 - Otras actividades profesionales, cient\u00edficas y t\u00e9cnicas n.c.o.p."
+  },
+  {
+    "name": [
+      "Myasa Fcc Sogesur Ute En Constitucion "
+    ],
+    "address": "Calle berlin, 38 - 48",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Danlinco Group Asia Pacific S.l. "
+    ],
+    "address": "Calle travessera de gracia, 62 - at pta 7",
+    "type": "7911 - Actividades de las agencias de viajes"
+  },
+  {
+    "name": [
+      "Kundi Bcn Sl. "
+    ],
+    "address": "Calle galileu, 306 - ent pta 1",
+    "type": "4611 - Intermediarios del comercio de materias primas agrarias, animales vivos, materias primas textiles y productos semielaborados"
+  },
+  {
+    "name": [
+      "La Fabrica S.c.c.l. I Associacio Mediaciontrns Union Temporal De Empresas Ley 18 / 1982 "
+    ],
+    "address": "Calle travessera de gracia, 278 - bajo",
+    "type": "8299 - Otras actividades de apoyo a las empresas n.c.o.p."
+  },
+  {
+    "name": [
+      "Shaferlu S.l. "
+    ],
+    "address": "Calle sant pau, 116 - loc 1",
+    "type": "4619 - Intermediarios del comercio de productos diversos"
+  },
+  {
+    "name": [
+      "Bro's Business Wolf S.l. "
+    ],
+    "address": "Calle sant elies, 35 - esc a p 3 pta. 4",
+    "type": "8220 - Actividades de los centros de llamadas"
+  },
+  {
+    "name": [
+      "Alosc Business Consulting S.l. "
+    ],
+    "address": "Rambla poblenou, 148 - p. 6 pta. 4",
+    "type": "4619 - Intermediarios del comercio de productos diversos"
+  },
+  {
+    "name": [
+      "Aldea Digital Hub S.l. "
+    ],
+    "address": "Avenida diagonal, 423 - p. 1 pta. 2",
+    "type": "7022 - Otras actividades de consultor\u00eda de gesti\u00f3n empresarial"
+  },
+  {
+    "name": [
+      "Formaster Limited "
+    ],
+    "address": "Avenida diagonal, 379 - 3 1",
+    "type": "4110 - Promoci\u00f3n inmobiliaria"
+  },
+  {
+    "name": [
+      "Yatasto Inversiones Sl "
+    ],
+    "address": "Calle proven\u00e7a, 286 - p. 5 pta. 2",
+    "type": "6420 - Actividades de las sociedades holding"
+  },
+  {
+    "name": [
+      "Befesa Construccion Y Tecnologia Ambiental Sa Construcciones Rubau Sa Ute Xerta Senia Ley 18-1982 "
+    ],
+    "address": "Calle arago, 295 - 3",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "United Loyal S.l. "
+    ],
+    "address": "Calle muntaner, 64 - p. 2 pta. 2",
+    "type": "5510 - Hoteles y alojamientos similares"
+  },
+  {
+    "name": [
+      "Aeronaval De Construcciones E Instalaciones Sa Telvent Trafico Y Transporte Sa Ute Ley 18-1982 "
+    ],
+    "address": "Calle badajoz, 145 - 147",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Keep The Sunrise S.l. "
+    ],
+    "address": "Calle tuset, 23 - 25 p. 4",
+    "type": " - "
+  },
+  {
+    "name": [
+      "What Comes Next S.l. "
+    ],
+    "address": "Calle maria cubi, 98 - p. 1 pta. 4",
+    "type": "4619 - Intermediarios del comercio de productos diversos"
+  },
+  {
+    "name": [
+      "G. P. O. Ingenieria S. A. Ingeotec S. A. Ute "
+    ],
+    "address": "Calle arago, 390 - 5 1",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Ute Comsa Morrot "
+    ],
+    "address": "Calle viriat, 47",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Ute Hiei Y Dmgh "
+    ],
+    "address": "Calle josep ferrater i mora, 2 - 4 d",
+    "type": "4110 - Promoci\u00f3n inmobiliaria"
+  },
+  {
+    "name": [
+      "Sunfactory Sistemas Fotovoltaicas S.l. (extinguida) "
+    ],
+    "address": "Avenida diagonal, 468 - plt 5 . pta c",
+    "type": "4652 - Comercio al por mayor de equipos electr\u00f3nicos y de telecomunicaciones y sus componentes"
+  },
+  {
+    "name": [
+      "Tenarre Taller Creativo Sl "
+    ],
+    "address": "Rambla catalunya, 38 - p. 8 pta. 1",
+    "type": "6831 - Agentes de la propiedad inmobiliaria"
+  },
+  {
+    "name": [
+      "Triunfomovil S.l. "
+    ],
+    "address": "Calle sardenya, 229 - p. 4",
+    "type": "6209 - Otros servicios relacionados con las tecnolog\u00edas de la informaci\u00f3n y la inform\u00e1tica"
+  },
+  {
+    "name": [
+      "L'estudi De La Mirada S.l. "
+    ],
+    "address": "Calle salva, 42",
+    "type": "7410 - Actividades de dise\u00f1o especializado"
+  },
+  {
+    "name": [
+      "Modas Cecil Sl (extinguida) "
+    ],
+    "address": "Calle consell de cent, 341 - plt 1 . pta 1",
+    "type": "4641 - Comercio al por mayor de textiles"
+  },
+  {
+    "name": [
+      "Carnegie Wholesalers S.l. "
+    ],
+    "address": "Calle muntaner, 239 - p. at",
+    "type": "4619 - Intermediarios del comercio de productos diversos"
+  },
+  {
+    "name": [
+      "The First You Think S.l. "
+    ],
+    "address": "Calle roc boronat, 27 - p. 1 pta. 1",
+    "type": "4690 - Comercio al por mayor no especializado"
+  },
+  {
+    "name": [
+      "Perjust Peritacions S.l. (extinguida) "
+    ],
+    "address": "Calle montpeller, 16",
+    "type": "6621 - Evaluaci\u00f3n de riesgos y da\u00f1os"
+  },
+  {
+    "name": [
+      "Sorroca Inversions Sl "
+    ],
+    "address": "Calle gran via de les corts catalanes, 617 - pp",
+    "type": "4121 - Construcci\u00f3n de edificios residenciales"
+  },
+  {
+    "name": [
+      "Muguet De Mai S.l. "
+    ],
+    "address": "Calle rossello, 237 - ent 1",
+    "type": "4616 - Intermediarios del comercio de textiles, prendas de vestir, peleter\u00eda, calzado y art\u00edculos de cuero"
+  },
+  {
+    "name": [
+      "Societat D'economia Mixta Del Termoludic "
+    ],
+    "address": "Calle arago, 390 - 6",
+    "type": "7311 - Agencias de publicidad"
+  },
+  {
+    "name": [
+      "Brethren Colleges Abroad "
+    ],
+    "address": "Calle montalegre, 8",
+    "type": "8219 - Actividades de fotocopiado, preparaci\u00f3n de documentos y otras actividades especializadas de oficina"
+  },
+  {
+    "name": [
+      "Intertubweld Industriales S.l. "
+    ],
+    "address": "Calle turo de la trinitat, 36 - p. 1 pta. 1",
+    "type": "2511 - Fabricaci\u00f3n de estructuras met\u00e1licas y sus componentes"
+  },
+  {
+    "name": [
+      "Hajo Food S.l. "
+    ],
+    "address": "Calle roger de lluria, 26 - p. 2 pta. 2",
+    "type": "5610 - Restaurantes y puestos de comidas"
+  },
+  {
+    "name": [
+      "Obrascon Huarte Lain Sa Acsa Obras E Infraestructuras Sa Ute Tunel Trinitat Ley 18-1982 "
+    ],
+    "address": "Calle tarragona, 149 - 15",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Sigue Lo Desconocido S.l. "
+    ],
+    "address": "Calle alcolea, 115 - bj",
+    "type": " - "
+  },
+  {
+    "name": [
+      "F Dahlgren Invest S.l. "
+    ],
+    "address": "Calle josep torres, 20 - p. 3 pta. 1",
+    "type": "6820 - Alquiler de bienes inmobiliarios por cuenta propia"
+  },
+  {
+    "name": [
+      "Subwax Distribuciones Musicales S.l. "
+    ],
+    "address": "Calle roig, 18 - pta bj",
+    "type": "4791 - Comercio al por menor por correspondencia o Internet"
+  },
+  {
+    "name": [
+      "Rafiq 2020 S.l. "
+    ],
+    "address": "Calle aneto, 31 - p. 3 pta. 3",
+    "type": "4122 - Construcci\u00f3n de edificios no residenciales"
+  },
+  {
+    "name": [
+      "Ginxin Real Home S.l. "
+    ],
+    "address": "Calle roger de flor, 45 - 47 esc a ent 1",
+    "type": "6831 - Agentes de la propiedad inmobiliaria"
+  },
+  {
+    "name": [
+      "Moccia Fruits S.l. "
+    ],
+    "address": "Calle longitudinal 1 (edif. bancos), 42 - local 17",
+    "type": "4631 - Comercio al por mayor de frutas y hortalizas"
+  },
+  {
+    "name": [
+      "Distribuciones Abdul-muna 2020 S.l. "
+    ],
+    "address": "Calle toledo, 20 - p. 1 pta. 1",
+    "type": "4781 - Comercio al por menor de productos alimenticios, bebidas y tabaco en puestos de venta y mercadillos"
+  },
+  {
+    "name": [
+      "Kodly Consulting S.l. "
+    ],
+    "address": "Calle gran via carles iii, 84 - plantas 3 y 4",
+    "type": "6209 - Otros servicios relacionados con las tecnolog\u00edas de la informaci\u00f3n y la inform\u00e1tica"
+  },
+  {
+    "name": [
+      "Khaos Stories S.l. "
+    ],
+    "address": "Calle mexic, 19 - loc o",
+    "type": "4779 - Comercio al por menor de art\u00edculos de segunda mano en establecimientos especializados"
+  },
+  {
+    "name": [
+      "The Barist Project 29 S.l. "
+    ],
+    "address": "Calle congost, 29 - p. bj pta. 2",
+    "type": "5610 - Restaurantes y puestos de comidas"
+  },
+  {
+    "name": [
+      "Lolacollitapropia S.l. "
+    ],
+    "address": "Avenida republica argentina, 187",
+    "type": "4631 - Comercio al por mayor de frutas y hortalizas"
+  },
+  {
+    "name": [
+      "Horitzon Explorers S.l. "
+    ],
+    "address": "Calle vilamari, 86",
+    "type": "7990 - Otros servicios de reservas y actividades relacionadas con los mismos"
+  },
+  {
+    "name": [
+      "Setel Kode S.l. "
+    ],
+    "address": "Calle pintor gimeno, 13 - p. ba",
+    "type": "6209 - Otros servicios relacionados con las tecnolog\u00edas de la informaci\u00f3n y la inform\u00e1tica"
+  },
+  {
+    "name": [
+      "Brick And Mortar S.l. "
+    ],
+    "address": "Calle sardenya, 252 - p. pr pta. 2",
+    "type": "6832 - Gesti\u00f3n y administraci\u00f3n de la propiedad inmobiliaria"
+  },
+  {
+    "name": [
+      "Visaltium Tech S.l. "
+    ],
+    "address": "Calle sant antoni maria claret, 252 - p. 4 pta. 4",
+    "type": "6202 - Actividades de consultor\u00eda inform\u00e1tica"
+  },
+  {
+    "name": [
+      "Montajes Linco S.l. "
+    ],
+    "address": "Calle riera alta, 18 - p. 2 pta. 1",
+    "type": "3320 - Instalaci\u00f3n de m\u00e1quinas y equipos industriales"
+  },
+  {
+    "name": [
+      "La Se\u00f1ora Productions S.l. "
+    ],
+    "address": "Calle balmes, 228 - piso 1",
+    "type": "5915 - Actividades de producci\u00f3n cinematogr\u00e1fica y de v\u00eddeo"
+  },
+  {
+    "name": [
+      "Sydney Time S.l. "
+    ],
+    "address": "Calle calvet, 14 - p. at",
+    "type": "6499 - Otros servicios financieros, excepto seguros y fondos de pensiones n.c.o.p."
+  },
+  {
+    "name": [
+      "Integrasana, Salud Y Medicina Integrativa S.l. "
+    ],
+    "address": "Calle travessera de gracia, 73 - 79. piso 3 2",
+    "type": "8690 - Otras actividades sanitarias"
+  },
+  {
+    "name": [
+      "Mcm Agiliza Servicios Sl "
+    ],
+    "address": "Calle felip ii, 159 - plt 3 . pta 2",
+    "type": "9609 - Otros servicios personales n.c.o.p."
+  },
+  {
+    "name": [
+      "Imep Dr Cordoba S.l. "
+    ],
+    "address": "Calle doctor cadevall, 26",
+    "type": "8812 - Actividades de servicios sociales sin alojamiento para personas con discapacidad"
+  },
+  {
+    "name": [
+      "Argo 305 Sl. "
+    ],
+    "address": "Calle valencia, 305",
+    "type": "5510 - Hoteles y alojamientos similares"
+  },
+  {
+    "name": [
+      "Odyssey Calle De Peru S.l. "
+    ],
+    "address": "Calle balmes, 109 - p. 5 pta. 2",
+    "type": "5520 - Alojamientos tur\u00edsticos y otros alojamientos de corta estancia"
+  },
+  {
+    "name": [
+      "Cisse Europe S.l. "
+    ],
+    "address": "Avenida diagonal, 442 - p. 3 pta. 1",
+    "type": "4616 - Intermediarios del comercio de textiles, prendas de vestir, peleter\u00eda, calzado y art\u00edculos de cuero"
+  },
+  {
+    "name": [
+      "Instal.lacions, Reformes I Projectes Catalunya S.l. "
+    ],
+    "address": "Calle via julia, 166 - p. ent pta. 5",
+    "type": "4121 - Construcci\u00f3n de edificios residenciales"
+  },
+  {
+    "name": [
+      "La Taberna Del Minotauro Sl (extinguida) "
+    ],
+    "address": "Calle pardo, 67 - bj",
+    "type": "5630 - Establecimientos de bebidas"
+  },
+  {
+    "name": [
+      "Cetim Real Estate 2 S.l. "
+    ],
+    "address": "Calle aribau, 127 - p. 2 pta. 2",
+    "type": "4110 - Promoci\u00f3n inmobiliaria"
+  },
+  {
+    "name": [
+      "Bbm Pla\u00e7a De La Llana Union Temporal De Empresas Ley 18 / 1982 "
+    ],
+    "address": "Calle granja, 29 - 1",
+    "type": "7111 - Servicios t\u00e9cnicos de arquitectura"
+  },
+  {
+    "name": [
+      "Standard Soft Ai S.l. "
+    ],
+    "address": "Paseo don joan borbo comte barcelona, 99 - pisos 1 y 2",
+    "type": "5829 - Edici\u00f3n de otros programas inform\u00e1ticos"
+  },
+  {
+    "name": [
+      "Figuerasoriol Investment S.l. "
+    ],
+    "address": "Calle major de sarria, 111 - p. 2",
+    "type": "6810 - Compraventa de bienes inmobiliarios por cuenta propia"
+  },
+  {
+    "name": [
+      "Ute Masterplan Sl-mcs Smart Duty Slp. "
+    ],
+    "address": "Pasaje lluis pellicer, 14 - 0 1",
+    "type": "7112 - Servicios t\u00e9cnicos de ingenier\u00eda y otras actividades relacionadas con el asesoramiento t\u00e9cnico"
+  },
+  {
+    "name": [
+      "Residencial Camprodon S.l. "
+    ],
+    "address": "Calle muntaner, 200 - p. 3 pta. 5",
+    "type": "4110 - Promoci\u00f3n inmobiliaria"
+  },
+  {
+    "name": [
+      "Propiedad Compra Blackrock 011023 21 S.l. "
+    ],
+    "address": "Calle arago, 643",
+    "type": "8299 - Otras actividades de apoyo a las empresas n.c.o.p."
+  },
+  {
+    "name": [
+      "Ute Com 20 - 22 "
+    ],
+    "address": "Calle sant antoni maria claret, 24 - 2",
+    "type": "6203 - Gesti\u00f3n de recursos inform\u00e1ticos"
+  },
+  {
+    "name": [
+      "Serveis Darquitectura I Enginyeria At 3 Oller Pe\u00f1a S.l. P Virginia Otal Benede Vidal Garcia Cicero U "
+    ],
+    "address": "Calle gran de gracia, 13 - pr",
+    "type": "7111 - Servicios t\u00e9cnicos de arquitectura"
+  },
+  {
+    "name": [
+      "Isabel Bennasar Felix Corina Dindareanu Adequacio Edifici Municipal Castellbisbal Ute "
+    ],
+    "address": "Calle balmes, 156 - 2 2 b",
+    "type": "7111 - Servicios t\u00e9cnicos de arquitectura"
+  },
+  {
+    "name": [
+      "Evindro S.l. "
+    ],
+    "address": "Avenida diagonal, 590 - p. 2 pta. 2",
+    "type": "6831 - Agentes de la propiedad inmobiliaria"
+  },
+  {
+    "name": [
+      "Matcha Colors Tea S.l. "
+    ],
+    "address": "Calle sant pere mes baix, 38",
+    "type": "1083 - Elaboraci\u00f3n de caf\u00e9, t\u00e9 e infusiones"
+  },
+  {
+    "name": [
+      "Batlle Roig Arquitectura S.l.p. - Sbs Simon I Blanco S.l. Ute "
+    ],
+    "address": "Calle zamora, 45 - lc 5",
+    "type": "7112 - Servicios t\u00e9cnicos de ingenier\u00eda y otras actividades relacionadas con el asesoramiento t\u00e9cnico"
+  },
+  {
+    "name": [
+      "Fumless Ideas S.l. "
+    ],
+    "address": "Calle pedro i pons, 9 - 11 p 5 pta. 3",
+    "type": "7112 - Servicios t\u00e9cnicos de ingenier\u00eda y otras actividades relacionadas con el asesoramiento t\u00e9cnico"
+  },
+  {
+    "name": [
+      "Grup Juridic Rossello Slp "
+    ],
+    "address": "Calle rossello, 489 - en 3",
+    "type": "6910 - Actividades jur\u00eddicas"
+  },
+  {
+    "name": [
+      "Avanzona Pet S.l. "
+    ],
+    "address": "Paseo sant joan, 25 - p. pr pta. 2",
+    "type": "4776 - Comercio al por menor de flores, plantas, semillas, fertilizantes, animales de compa\u00f1\u00eda y alimentos para los mismos en establecimientos especializados"
+  },
+  {
+    "name": [
+      "Faria Dreams S.l. "
+    ],
+    "address": "Calle balmes, 279 - p. 1 pta. 2",
+    "type": "6810 - Compraventa de bienes inmobiliarios por cuenta propia"
+  },
+  {
+    "name": [
+      "Thinkprom S.l. "
+    ],
+    "address": "Calle riera de sant miquel, 44 - p. bj pta. 2",
+    "type": "7311 - Agencias de publicidad"
+  },
+  {
+    "name": [
+      "Sweetpay Spain Financial Tech Sweden S.l. "
+    ],
+    "address": "Calle proven\u00e7a, 226 - p. pr pta. 4",
+    "type": "7490 - Otras actividades profesionales, cient\u00edficas y t\u00e9cnicas n.c.o.p."
+  },
+  {
+    "name": [
+      "Tourism Marketing Solutions S.l. "
+    ],
+    "address": "Avenida mare deu de montserrat, 113 - p. 4 pta. 3",
+    "type": "7990 - Otros servicios de reservas y actividades relacionadas con los mismos"
+  },
+  {
+    "name": [
+      "Grupo Tianchao 2018 S.l. "
+    ],
+    "address": "Calle cortada, 26 - p. bj",
+    "type": "4725 - Comercio al por menor de bebidas en establecimientos especializados"
+  },
+  {
+    "name": [
+      "Rowell Patrimonios S.l. "
+    ],
+    "address": "Avenida xile, 34 - p. 11 pta. 4",
+    "type": "6619 - Otras actividades auxiliares a los servicios financieros, excepto seguros y fondos de pensiones"
+  },
+  {
+    "name": [
+      "Microxarxa Sl "
+    ],
+    "address": "Calle llull, 48",
+    "type": "4399 - Otras actividades de construcci\u00f3n especializada n.c.o.p."
+  },
+  {
+    "name": [
+      "The Palm Shisha Lounge Bcn S.l. "
+    ],
+    "address": "Calle rector ubach, 48",
+    "type": "5630 - Establecimientos de bebidas"
+  },
+  {
+    "name": [
+      "Bcjl 2020 S.l. "
+    ],
+    "address": "Calle doctor cadevall, 16 - pta ch",
+    "type": "6831 - Agentes de la propiedad inmobiliaria"
+  },
+  {
+    "name": [
+      "Acquam2oconsultoria S.l. "
+    ],
+    "address": "Calle rocafort, 39 - ent 4",
+    "type": "7490 - Otras actividades profesionales, cient\u00edficas y t\u00e9cnicas n.c.o.p."
+  },
+  {
+    "name": [
+      "Proyectos Solares Iberia Iii S.l. "
+    ],
+    "address": "Plaza catalunya, 1 - 3 e",
+    "type": "3519 - Producci\u00f3n de energ\u00eda el\u00e9ctrica de otros tipos"
+  },
+  {
+    "name": [
+      "Credorax Bank Limited "
+    ],
+    "address": "Calle travessera de gracia, 11 - 5",
+    "type": "7320 - Estudios de mercado y realizaci\u00f3n de encuestas de opini\u00f3n p\u00fablica"
+  },
+  {
+    "name": [
+      "Core Hw Partners Sl. "
+    ],
+    "address": "Calle gran via carles iii, 94 - 3 plt",
+    "type": " - "
+  },
+  {
+    "name": [
+      "Artigame Juegos De Seduccion S.l. "
+    ],
+    "address": "Paseo gracia, 34",
+    "type": "7311 - Agencias de publicidad"
+  },
+  {
+    "name": [
+      "Ganeshay Namah S.l. "
+    ],
+    "address": "Calle freixures, 11 - p. 2 pta. 1",
+    "type": "4711 - Comercio al por menor en establecimientos no especializados, con predominio en productos alimenticios, bebidas y tabaco"
+  },
+  {
+    "name": [
+      "Lendress Fashion S.l. "
+    ],
+    "address": "Calle ausias marc, 143 - p. 1 pta. 3",
+    "type": "8299 - Otras actividades de apoyo a las empresas n.c.o.p."
+  },
+  {
+    "name": [
+      "Visibilidad Digital S.l. "
+    ],
+    "address": "Calle valencia, 266 - p. 2",
+    "type": "7022 - Otras actividades de consultor\u00eda de gesti\u00f3n empresarial"
+  },
+  {
+    "name": [
+      "Growhold Business Iberia S.l. "
+    ],
+    "address": "Calle arago, 141 - p. 5 pta. 3",
+    "type": "6612 - Actividades de intermediaci\u00f3n en operaciones con valores y otros activos"
+  },
+  {
+    "name": [
+      "Wind Space Xxi Sl "
+    ],
+    "address": "Calle laforja, 100 - esc b . plt 1. pta 1",
+    "type": "6820 - Alquiler de bienes inmobiliarios por cuenta propia"
+  },
+  {
+    "name": [
+      "Pau Claris-mallorca Salut S.l.p. "
+    ],
+    "address": "Calle pau claris, 162 - 164,8 5",
+    "type": "8690 - Otras actividades sanitarias"
+  },
+  {
+    "name": [
+      "Real Slots Games S.l. "
+    ],
+    "address": "Calle calabria, 149 - p. ent pta. 1",
+    "type": "6201 - Actividades de programaci\u00f3n inform\u00e1tica"
+  },
+  {
+    "name": [
+      "Pacto Digital S.l. "
+    ],
+    "address": "Calle balmes, 150 - p. 5",
+    "type": "6209 - Otros servicios relacionados con las tecnolog\u00edas de la informaci\u00f3n y la inform\u00e1tica"
+  },
+  {
+    "name": [
+      "Ute Rovira Beleta Accesibilidad S.l.p. Mcrit Sl Plans Accesibilitat Pineda De Mar I Alella Union Tem "
+    ],
+    "address": "Calle loreto, 54 - principal 2",
+    "type": "7112 - Servicios t\u00e9cnicos de ingenier\u00eda y otras actividades relacionadas con el asesoramiento t\u00e9cnico"
+  },
+  {
+    "name": [
+      "Odyssey Calle De Balmes S.l. "
+    ],
+    "address": "Calle balmes, 109 - p. 5 pta. 2",
+    "type": "5520 - Alojamientos tur\u00edsticos y otros alojamientos de corta estancia"
+  },
+  {
+    "name": [
+      "Atmosfera Ventures Sl "
+    ],
+    "address": "Calle l'est, 19 - p. bj pta. 1",
+    "type": "4121 - Construcci\u00f3n de edificios residenciales"
+  },
+  {
+    "name": [
+      "Calaveras Mexicanas S.l. "
+    ],
+    "address": "Calle mallorca, 272 - p. 3",
+    "type": "3212 - Fabricaci\u00f3n de art\u00edculos de joyer\u00eda y art\u00edculos similares"
+  },
+  {
+    "name": [
+      "Kecba Cosmetics S.l. "
+    ],
+    "address": "Calle mila i fontanals, 17 - p. 2 pta. 3",
+    "type": "4791 - Comercio al por menor por correspondencia o Internet"
+  },
+  {
+    "name": [
+      "Barcelona Sailboats S.l. "
+    ],
+    "address": "Calle comte d'urgell, 96 - 98 esc iz p. 2 pta. 2",
+    "type": "7734 - Alquiler de medios de navegaci\u00f3n"
+  },
+  {
+    "name": [
+      "Peregrines Computing Family S.l. "
+    ],
+    "address": "Calle via laietana, 57 - piso 3 pta 2",
+    "type": "6202 - Actividades de consultor\u00eda inform\u00e1tica"
+  },
+  {
+    "name": [
+      "Ute International Health Services Argentina Sa-chc Consultoria I Gestio S.a. Ute Ley 18 82 "
+    ],
+    "address": "Avenida tibidabo, 21",
+    "type": "6203 - Gesti\u00f3n de recursos inform\u00e1ticos"
+  },
+  {
+    "name": [
+      "Napo 2008 Consultores Sl "
+    ],
+    "address": "Calle reina victoria, 12 - bj",
+    "type": "6920 - Actividades de contabilidad, tenedur\u00eda de libros, auditor\u00eda y asesor\u00eda fiscal"
+  },
+  {
+    "name": [
+      "Cti Sviluppo Immobiliare Holding S.l. "
+    ],
+    "address": "Paseo gracia, 61 - p. 3",
+    "type": "6420 - Actividades de las sociedades holding"
+  },
+  {
+    "name": [
+      "Kiribatis Comunicacio S.l. "
+    ],
+    "address": "Calle huelva, 77 - p. 4 pta. 1",
+    "type": "7311 - Agencias de publicidad"
+  },
+  {
+    "name": [
+      "Oriol Valls Guinovart Izaskun Gonzalez Barredo Ramon Valls Ortiz Temporal D Empreses "
+    ],
+    "address": "Calle valencia, 200 - 1 1",
+    "type": "7111 - Servicios t\u00e9cnicos de arquitectura"
+  },
+  {
+    "name": [
+      "Administracion Operaciones Inmobiliarias S.l. "
+    ],
+    "address": "Paseo gracia, 61 - p. 3 pta. 1",
+    "type": "4110 - Promoci\u00f3n inmobiliaria"
+  },
+  {
+    "name": [
+      "Laurel Court Coffee Roasters S.l. "
+    ],
+    "address": "Calle diputacio, 297 - p. 2 pta. 1",
+    "type": "5630 - Establecimientos de bebidas"
+  },
+  {
+    "name": [
+      "Excelencia Legal S.l. "
+    ],
+    "address": "Plaza francesc macia, 8 - p. 4 pta. a",
+    "type": "7830 - Otra provisi\u00f3n de recursos humanos"
+  },
+  {
+    "name": [
+      "Provenca 256 Investment S.l. "
+    ],
+    "address": "Calle estruc, 9",
+    "type": "4110 - Promoci\u00f3n inmobiliaria"
+  },
+  {
+    "name": [
+      "Rincon De Altea S.l. "
+    ],
+    "address": "Avenida diagonal, 612 - p. 3 pta. 1",
+    "type": "4121 - Construcci\u00f3n de edificios residenciales"
+  },
+  {
+    "name": [
+      "Patrimonial Desca Sl. "
+    ],
+    "address": "Calle bisbe sivilla, 44 - p. 3 pta. 1",
+    "type": "4110 - Promoci\u00f3n inmobiliaria"
+  },
+  {
+    "name": [
+      "Sacaye Sl "
+    ],
+    "address": "Calle balmes, 25 - pr 1",
+    "type": "8219 - Actividades de fotocopiado, preparaci\u00f3n de documentos y otras actividades especializadas de oficina"
+  },
+  {
+    "name": [
+      "Ealonsobal S.l. "
+    ],
+    "address": "Calle cantabria, 48 - p. 3 pta. 1",
+    "type": "6621 - Evaluaci\u00f3n de riesgos y da\u00f1os"
+  },
+  {
+    "name": [
+      "Belafonte Mediterranea S.l. "
+    ],
+    "address": "Calle manresa, 8 - p. 1 pta. 2",
+    "type": "4110 - Promoci\u00f3n inmobiliaria"
+  },
+  {
+    "name": [
+      "Ben-nevis Capital Sociedad Limitada. "
+    ],
+    "address": "Avenida diagonal, 605 - p. 9",
+    "type": "6810 - Compraventa de bienes inmobiliarios por cuenta propia"
+  },
+  {
+    "name": [
+      "Ute Dmr Nexus "
+    ],
+    "address": "Avenida diagonal, 605 - 4",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Belleteyn Plus S.l. "
+    ],
+    "address": "Calle de parcerisa, 13",
+    "type": "7022 - Otras actividades de consultor\u00eda de gesti\u00f3n empresarial"
+  },
+  {
+    "name": [
+      "Sainz Izard Abogados Y Economistas S.l.p. "
+    ],
+    "address": "Calle travessera de gracia, 29 - 2 1",
+    "type": "6910 - Actividades jur\u00eddicas"
+  },
+  {
+    "name": [
+      "Proyectos Solares Iberia Iv S.l. "
+    ],
+    "address": "Plaza catalunya, 1 - 3 e",
+    "type": "3519 - Producci\u00f3n de energ\u00eda el\u00e9ctrica de otros tipos"
+  },
+  {
+    "name": [
+      "Gentexfer S.l. "
+    ],
+    "address": "Calle muntaner, 573 - p. 3 pta. 2",
+    "type": " - "
+  },
+  {
+    "name": [
+      "Salber 2020 S.l. "
+    ],
+    "address": "Calle rossello, 157 - p. 2 pta. 1",
+    "type": "4647 - Comercio al por mayor de muebles, alfombras y aparatos de iluminaci\u00f3n"
+  },
+  {
+    "name": [
+      "Cetir Centre Medic Ute Ley 18 N. 82 "
+    ],
+    "address": "Calle londres, 6",
+    "type": "8622 - Actividades de medicina especializada"
+  },
+  {
+    "name": [
+      "Ditec Medical S.l. "
+    ],
+    "address": "Calle sicilia, 368 - bj",
+    "type": "4652 - Comercio al por mayor de equipos electr\u00f3nicos y de telecomunicaciones y sus componentes"
+  },
+  {
+    "name": [
+      "Barcelona Veterinae Sociedad Limitada Profesional "
+    ],
+    "address": "Calle galileu, 310 - bj. pta 4",
+    "type": "7500 - Actividades veterinarias"
+  },
+  {
+    "name": [
+      "Fcc Construcciones Sa Construcciones Pai Sa Ute Vullpalleres Ley 18-1982 "
+    ],
+    "address": "Avenida josep tarradellas, 123 - septima plt",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Bluekik S.l. "
+    ],
+    "address": "Avenida roma, 66 - p. ent pta. 1",
+    "type": "6202 - Actividades de consultor\u00eda inform\u00e1tica"
+  },
+  {
+    "name": [
+      "Grupo De Gestion Empresarial Sa "
+    ],
+    "address": "Calle casanova, 191",
+    "type": " - "
+  },
+  {
+    "name": [
+      "Patrimonial Damas Tours Sl "
+    ],
+    "address": "Calle vallespir, 169",
+    "type": "6820 - Alquiler de bienes inmobiliarios por cuenta propia"
+  },
+  {
+    "name": [
+      "Ttone Investment Sl "
+    ],
+    "address": "Ronda general mitre, 164 - ent pta 2",
+    "type": "4616 - Intermediarios del comercio de textiles, prendas de vestir, peleter\u00eda, calzado y art\u00edculos de cuero"
+  },
+  {
+    "name": [
+      "Junae 2008 Sl "
+    ],
+    "address": "Calle doctor august pi i sunyer, 4",
+    "type": "9319 - Otras actividades deportivas"
+  },
+  {
+    "name": [
+      "One Stop 2021 S.l. "
+    ],
+    "address": "Calle carretes, 35 - p. 2 pta. 1",
+    "type": "4725 - Comercio al por menor de bebidas en establecimientos especializados"
+  },
+  {
+    "name": [
+      "Coticentro Business S.l. "
+    ],
+    "address": "Paseo mare de deu del coll, 52 - 56 esc b p. 6 pta. 1",
+    "type": "7022 - Otras actividades de consultor\u00eda de gesti\u00f3n empresarial"
+  },
+  {
+    "name": [
+      "Comsa Inst Y Sist Ind S.a.u. Tradia Telecom S.a.u. Y Electronica Noroeste Sg Sl Ute Ley 18 / 82 "
+    ],
+    "address": "Avenida parc logistic, 12",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Servicios De Depilacion Bloc Moscu Sl. "
+    ],
+    "address": "Calle proven\u00e7a, 288 - p. 3 pta. 1",
+    "type": "6612 - Actividades de intermediaci\u00f3n en operaciones con valores y otros activos"
+  },
+  {
+    "name": [
+      "Arundo Desing Sl "
+    ],
+    "address": "Rambla catalunya, 38 - plt 8",
+    "type": "8299 - Otras actividades de apoyo a las empresas n.c.o.p."
+  },
+  {
+    "name": [
+      "Tercer Clos De Santa Tecla Sl "
+    ],
+    "address": "Paseo gracia, 122 - plt 4 . pta 2",
+    "type": "5520 - Alojamientos tur\u00edsticos y otros alojamientos de corta estancia"
+  },
+  {
+    "name": [
+      "Ute Sant Feliu Verd "
+    ],
+    "address": "Paseo manuel girona, 55 - bajo 2",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Aqualia Gestion Integral Del Agua S.a. Infilco Espa\u00f1ola S.a. Ute 18 82 Idam Sant Antoni "
+    ],
+    "address": "Calle berlin, 38 - 3",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Istem Sl Emte Sa Aerta Ute Ley 18-1982 "
+    ],
+    "address": "Calle costa brava, 33",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Zolaxa Bcn S.l. "
+    ],
+    "address": "Calle valldonzella, 43 - bajo",
+    "type": "4121 - Construcci\u00f3n de edificios residenciales"
+  },
+  {
+    "name": [
+      "Montaje Y Puesta A Punto Sl "
+    ],
+    "address": "Calle craywinckel, 2 - esc a piso 2 pta 1",
+    "type": "4329 - Otras instalaciones en obras de construcci\u00f3n"
+  },
+  {
+    "name": [
+      "Cetim Real Estate 1 S.l. "
+    ],
+    "address": "Calle aribau, 127 - p. 2 pta. 2",
+    "type": "4110 - Promoci\u00f3n inmobiliaria"
+  },
+  {
+    "name": [
+      "Cetim Real Estate S.l. "
+    ],
+    "address": "Calle aribau, 127 - p. 2 pta. 2",
+    "type": "6831 - Agentes de la propiedad inmobiliaria"
+  },
+  {
+    "name": [
+      "Solana Energy Sl. "
+    ],
+    "address": "Rambla catalunya, 38 - p. 6",
+    "type": "6820 - Alquiler de bienes inmobiliarios por cuenta propia"
+  },
+  {
+    "name": [
+      "Envasados Y Manipulados Barbera S.l. "
+    ],
+    "address": "Calle pau claris, 115 - p. at",
+    "type": "8292 - Actividades de envasado y empaquetado"
+  },
+  {
+    "name": [
+      "Macte-art Spaces S.l. "
+    ],
+    "address": "Calle serra, 17 - p. bj pta. 1",
+    "type": "9609 - Otros servicios personales n.c.o.p."
+  },
+  {
+    "name": [
+      "Flexitop Promoventas S.l. "
+    ],
+    "address": "Avenida republica argentina, 228",
+    "type": "6820 - Alquiler de bienes inmobiliarios por cuenta propia"
+  },
+  {
+    "name": [
+      "You Da 2022 S.l. "
+    ],
+    "address": "Calle varsovia, 44 - bajo 1",
+    "type": "6920 - Actividades de contabilidad, tenedur\u00eda de libros, auditor\u00eda y asesor\u00eda fiscal"
+  },
+  {
+    "name": [
+      "Grop Exposicions I Museografia S.l. Mamm Ute Llei 18 / 82 "
+    ],
+    "address": "Plaza joan cornudella, 17",
+    "type": "8299 - Otras actividades de apoyo a las empresas n.c.o.p."
+  },
+  {
+    "name": [
+      "Hummerviplimocom Sl (en Liquidacion) "
+    ],
+    "address": "Avenida meridiana, 24 - bj",
+    "type": "7711 - Alquiler de autom\u00f3viles y veh\u00edculos de motor ligeros"
+  },
+  {
+    "name": [
+      "Kumar And Sons S.l. "
+    ],
+    "address": "Calle piquer, 24",
+    "type": "4711 - Comercio al por menor en establecimientos no especializados, con predominio en productos alimenticios, bebidas y tabaco"
+  },
+  {
+    "name": [
+      "Spiti 2018 S.l. "
+    ],
+    "address": "Calle plato, 26 - piso 3",
+    "type": "4110 - Promoci\u00f3n inmobiliaria"
+  },
+  {
+    "name": [
+      "Sisteleva S.l. "
+    ],
+    "address": "Calle vilamari, 86",
+    "type": "4329 - Otras instalaciones en obras de construcci\u00f3n"
+  },
+  {
+    "name": [
+      "Centro Auditivo Aural Talavera S.l. "
+    ],
+    "address": "Calle escoles pies (ed aural widex), 103",
+    "type": "4774 - Comercio al por menor de art\u00edculos m\u00e9dicos y ortop\u00e9dicos en establecimientos especializados"
+  },
+  {
+    "name": [
+      "Centro Auditivo Aural Cadiz S.l. "
+    ],
+    "address": "Calle escoles pies (ed aural widex), 103",
+    "type": "4778 - Otro comercio al por menor de art\u00edculos nuevos en establecimientos especializados"
+  },
+  {
+    "name": [
+      "My Style By D' V&y S.l. "
+    ],
+    "address": "Calle conca de tremp, 45 - loc 2",
+    "type": "9602 - Peluquer\u00eda y otros tratamientos de belleza"
+  },
+  {
+    "name": [
+      "Sufi Hera Ute Valloro Ley 18-1982 "
+    ],
+    "address": "Calle numancia, 185 - sexta plt",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Elyo Iberica Servicios Energeticos Sa Copisa Proyectos Y Mantenimientos Industriales Sa Ute Ley 18-1982 "
+    ],
+    "address": "Calle paris (bi), 43",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Thepal 1986 S.l. "
+    ],
+    "address": "Calle bonavista, 35",
+    "type": "4121 - Construcci\u00f3n de edificios residenciales"
+  },
+  {
+    "name": [
+      "Oliver Marketing Iberia S.l. "
+    ],
+    "address": "Rambla catalunya, 18",
+    "type": "6920 - Actividades de contabilidad, tenedur\u00eda de libros, auditor\u00eda y asesor\u00eda fiscal"
+  },
+  {
+    "name": [
+      "Fincas Membri S.l. "
+    ],
+    "address": "Calle grases, 14 - 18 p. at pta. 5",
+    "type": "6831 - Agentes de la propiedad inmobiliaria"
+  },
+  {
+    "name": [
+      "Badshaahi Bcn S.l. "
+    ],
+    "address": "Calle diputacio, 42 - p. 0 pta. 1",
+    "type": "4721 - Comercio al por menor de frutas y hortalizas en establecimientos especializados"
+  },
+  {
+    "name": [
+      "Olyn Lab S.l. "
+    ],
+    "address": "Calle muntaner, 262 - p. 4 pta. 4",
+    "type": "7311 - Agencias de publicidad"
+  },
+  {
+    "name": [
+      "Palladium Uk Limited "
+    ],
+    "address": "Calle aribau, 143 - pr 1",
+    "type": "8559 - Otra educaci\u00f3n n.c.o.p."
+  },
+  {
+    "name": [
+      "Proyectos Solares Iberia V S.l. "
+    ],
+    "address": "Plaza catalunya, 1 - 3 e",
+    "type": "3519 - Producci\u00f3n de energ\u00eda el\u00e9ctrica de otros tipos"
+  },
+  {
+    "name": [
+      "Alwaris 2019 S.l. "
+    ],
+    "address": "Calle lepant, 440",
+    "type": "6190 - Otras actividades de telecomunicaciones"
+  },
+  {
+    "name": [
+      "Glintek Ingenieria Y Aplicaciones Del Aluminio Sl (extinguida) "
+    ],
+    "address": "Calle folgueroles, 8 - piso 5. pta 1",
+    "type": "7112 - Servicios t\u00e9cnicos de ingenier\u00eda y otras actividades relacionadas con el asesoramiento t\u00e9cnico"
+  },
+  {
+    "name": [
+      "Elan Ventures Group S.l. "
+    ],
+    "address": "Paseo mare de deu del coll, 173 - p. 2 pta. 2",
+    "type": "4121 - Construcci\u00f3n de edificios residenciales"
+  },
+  {
+    "name": [
+      "Inversions I Negocis Cym, Sl "
+    ],
+    "address": "Paseo gracia, 42 - plt 2",
+    "type": "6920 - Actividades de contabilidad, tenedur\u00eda de libros, auditor\u00eda y asesor\u00eda fiscal"
+  },
+  {
+    "name": [
+      "Dodonea Invex Sl. "
+    ],
+    "address": "Calle villarroel, 58 - bj",
+    "type": "4110 - Promoci\u00f3n inmobiliaria"
+  },
+  {
+    "name": [
+      "Boatim Europe S.l. "
+    ],
+    "address": "Calle estruc, 9",
+    "type": "5829 - Edici\u00f3n de otros programas inform\u00e1ticos"
+  },
+  {
+    "name": [
+      "Hoot Audio S.l. "
+    ],
+    "address": "Avenida diagonal, 682 - p. 10",
+    "type": "5811 - Edici\u00f3n de libros"
+  },
+  {
+    "name": [
+      "Galo&vita S.l. "
+    ],
+    "address": "Calle ganduxer, 45 - p. at pta. b",
+    "type": "6420 - Actividades de las sociedades holding"
+  },
+  {
+    "name": [
+      "Wilburdos Sl "
+    ],
+    "address": "Calle corsega, 323",
+    "type": "4110 - Promoci\u00f3n inmobiliaria"
+  },
+  {
+    "name": [
+      "Contratas Y Obras Empresa Constructora Sa Compania Levantina De Edificacion Y Obras Publicas Sa Union Temporal De Empresas Ley 18 1982 De 26 De Mayo Numero Dos. "
+    ],
+    "address": "Calle freixa, 6",
+    "type": "4110 - Promoci\u00f3n inmobiliaria"
+  },
+  {
+    "name": [
+      "Oriental Retail Ventures S.l. "
+    ],
+    "address": "Calle ferran puig, 17 - p. 3 pta. 1",
+    "type": "7022 - Otras actividades de consultor\u00eda de gesti\u00f3n empresarial"
+  },
+  {
+    "name": [
+      "Abdu Tech S.l. "
+    ],
+    "address": "Calle cartagena, 309 - bj td 2",
+    "type": "4742 - Comercio al por menor de equipos de telecomunicaciones en establecimientos especializados"
+  },
+  {
+    "name": [
+      "Casa Prosperitat 2021 S.l. "
+    ],
+    "address": "Calle balmes, 331 - p. 1 pta. 1",
+    "type": "4719 - Otro comercio al por menor en establecimientos no especializados"
+  },
+  {
+    "name": [
+      "Atlantia Space Property S.l. "
+    ],
+    "address": "Rambla catalunya, 38 - p. 6",
+    "type": "8299 - Otras actividades de apoyo a las empresas n.c.o.p."
+  },
+  {
+    "name": [
+      "Construcciones Pai Sa Construcciones Galdiano Sa Ute La Catalana Ley 18-1982 "
+    ],
+    "address": "Calle palomar, 34",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Inefable Coats S.l. "
+    ],
+    "address": "Calle sant magi, 28",
+    "type": "4673 - Comercio al por mayor de madera, materiales de construcci\u00f3n y aparatos sanitarios"
+  },
+  {
+    "name": [
+      "Nederx Sa "
+    ],
+    "address": "Avenida pedralbes, 55",
+    "type": "6820 - Alquiler de bienes inmobiliarios por cuenta propia"
+  },
+  {
+    "name": [
+      "Activimmo "
+    ],
+    "address": "Paseo gracia, 101 - 4 1",
+    "type": "6820 - Alquiler de bienes inmobiliarios por cuenta propia"
+  },
+  {
+    "name": [
+      "Poc Austria Gmbh "
+    ],
+    "address": "Rambla catalunya, 60 - 2 a",
+    "type": "7311 - Agencias de publicidad"
+  },
+  {
+    "name": [
+      "Univer Nort S.l. "
+    ],
+    "address": "Rambla catalunya, 14 - p. 6 pta. 1",
+    "type": "4941 - Transporte de mercanc\u00edas por carretera"
+  },
+  {
+    "name": [
+      "Brucriluc Group S.l. "
+    ],
+    "address": "Calle bigai, 3 - td 2",
+    "type": "9329 - Otras actividades recreativas y de entretenimiento"
+  },
+  {
+    "name": [
+      "Hanuman Tech S.l. "
+    ],
+    "address": "Plaza gal\u00b7la placidia, 1 - p. 3",
+    "type": "6203 - Gesti\u00f3n de recursos inform\u00e1ticos"
+  },
+  {
+    "name": [
+      "Koni. Animation S.l. "
+    ],
+    "address": "Paseo gracia, 25 - p. 3",
+    "type": "5912 - Actividades de postproducci\u00f3n cinematogr\u00e1fica, de v\u00eddeo y de programas de televisi\u00f3n"
+  },
+  {
+    "name": [
+      "Cat Speciale Caffe Distribucion S.l. "
+    ],
+    "address": "Calle numancia, 112 - loc",
+    "type": "4636 - Comercio al por mayor de az\u00facar, chocolate y confiter\u00eda"
+  },
+  {
+    "name": [
+      "Seven Sector Technologies S.l. "
+    ],
+    "address": "Avenida diagonal, 131",
+    "type": "6202 - Actividades de consultor\u00eda inform\u00e1tica"
+  },
+  {
+    "name": [
+      "Empower People S.l. "
+    ],
+    "address": "Calle manuel de falla, 13 - p. 2 pta. 4",
+    "type": "7022 - Otras actividades de consultor\u00eda de gesti\u00f3n empresarial"
+  },
+  {
+    "name": [
+      "Reactives Industries S.l. "
+    ],
+    "address": "Calle bellafila, 3 - p. 1 pta. 1",
+    "type": "4652 - Comercio al por mayor de equipos electr\u00f3nicos y de telecomunicaciones y sus componentes"
+  },
+  {
+    "name": [
+      "Laboratorio Teatro S.l. "
+    ],
+    "address": "Pasaje sant antoni abat, 6",
+    "type": "8551 - Educaci\u00f3n deportiva y recreativa"
+  },
+  {
+    "name": [
+      "Euvi S Xxi Ventures S.l. "
+    ],
+    "address": "Calle marques de mulhacen, 23 - p. bj",
+    "type": "6420 - Actividades de las sociedades holding"
+  },
+  {
+    "name": [
+      "Conquer The Victory S.l. "
+    ],
+    "address": "Calle tuset, 23 - 25 p. at pta. 7",
+    "type": " - "
+  },
+  {
+    "name": [
+      "Continuamos Para Bingo S.l. "
+    ],
+    "address": "Calle neptu, 18 - 20",
+    "type": "6831 - Agentes de la propiedad inmobiliaria"
+  },
+  {
+    "name": [
+      "Cluster Interim Management S.l. "
+    ],
+    "address": "Calle bonaplata, 51 - p. at pta. 1",
+    "type": "7022 - Otras actividades de consultor\u00eda de gesti\u00f3n empresarial"
+  },
+  {
+    "name": [
+      "Belaz Ocean Services Limited "
+    ],
+    "address": "Calle balmes, 191 - 3 2",
+    "type": "7734 - Alquiler de medios de navegaci\u00f3n"
+  },
+  {
+    "name": [
+      "Bedra Invest S.l. "
+    ],
+    "address": "Calle ribera, 5 - p. at",
+    "type": "6810 - Compraventa de bienes inmobiliarios por cuenta propia"
+  },
+  {
+    "name": [
+      "Yes Trip Barcelona S.l. "
+    ],
+    "address": "Calle ca l'alegre de dalt, 51",
+    "type": "7911 - Actividades de las agencias de viajes"
+  },
+  {
+    "name": [
+      "Biodiesel Processing Sl (extinguida) "
+    ],
+    "address": "Avenida diagonal, 621 - 629",
+    "type": "3519 - Producci\u00f3n de energ\u00eda el\u00e9ctrica de otros tipos"
+  },
+  {
+    "name": [
+      "Killian Societat De Cartera S.l. "
+    ],
+    "address": "Calle de la llacuna, 2 - p. bj",
+    "type": "6499 - Otros servicios financieros, excepto seguros y fondos de pensiones n.c.o.p."
+  },
+  {
+    "name": [
+      "Aishi Shopno S.l. "
+    ],
+    "address": "Calle roger de lluria, 44 - bj loc",
+    "type": "4711 - Comercio al por menor en establecimientos no especializados, con predominio en productos alimenticios, bebidas y tabaco"
+  },
+  {
+    "name": [
+      "Gva Automatizacion S.l. "
+    ],
+    "address": "Calle alaba, 147 - 7 2",
+    "type": "6201 - Actividades de programaci\u00f3n inform\u00e1tica"
+  },
+  {
+    "name": [
+      "Volvitur Sl "
+    ],
+    "address": "Avenida bogatell, 65 - pta 1. esc b. piso 4",
+    "type": "6202 - Actividades de consultor\u00eda inform\u00e1tica"
+  },
+  {
+    "name": [
+      "Bluzard Technologies S.l. "
+    ],
+    "address": "Calle vilamari, 86",
+    "type": "4651 - Comercio al por mayor de ordenadores, equipos perif\u00e9ricos y programas inform\u00e1ticos"
+  },
+  {
+    "name": [
+      "Coredato Xxi S.l. "
+    ],
+    "address": "Calle roc boronat, 147 - p. 10",
+    "type": "6810 - Compraventa de bienes inmobiliarios por cuenta propia"
+  },
+  {
+    "name": [
+      "Cuestion De Metodo Sl "
+    ],
+    "address": "Calle balmes, 195",
+    "type": " - "
+  },
+  {
+    "name": [
+      "Ute Sagales Cetis "
+    ],
+    "address": "Plaza tetuan, 30 - en 1",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Changzhou Trina Solar Energy Co Ltd Of "
+    ],
+    "address": "Avenida diagonal, 640 - 6 a",
+    "type": "7311 - Agencias de publicidad"
+  },
+  {
+    "name": [
+      "Uniland Trading B. V. "
+    ],
+    "address": "Calle corsega, 289 - 5 1",
+    "type": "4673 - Comercio al por mayor de madera, materiales de construcci\u00f3n y aparatos sanitarios"
+  },
+  {
+    "name": [
+      "Maxxium Worldwide Trade B. V. "
+    ],
+    "address": "Avenida diagonal, 654 - b 1",
+    "type": "4634 - Comercio al por mayor de bebidas"
+  },
+  {
+    "name": [
+      "Ute Psaru Ter-daro "
+    ],
+    "address": "Ronda guinardo, 99",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Dragados Sa Comsa Sa Flota Proyectos Singulares Sa Ute Tarraco Ley 18-1982 "
+    ],
+    "address": "Calle via laietana, 33 - 7",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Oficina Nacional Suiza De Turismo "
+    ],
+    "address": "Calle diputacio, 289 - pp a",
+    "type": "7311 - Agencias de publicidad"
+  },
+  {
+    "name": [
+      "Bausan Films Sl La Productora Video Comunicacio Sa Ute Ley 18-1982 "
+    ],
+    "address": "Calle muntaner, 244 - 4 2",
+    "type": "5915 - Actividades de producci\u00f3n cinematogr\u00e1fica y de v\u00eddeo"
+  },
+  {
+    "name": [
+      "Axminster Sl. "
+    ],
+    "address": "Ronda general mitre, 211 - bj loc 3",
+    "type": "3900 - Actividades de descontaminaci\u00f3n y otros servicios de gesti\u00f3n de residuos"
+  },
+  {
+    "name": [
+      "Unagebe Sl "
+    ],
+    "address": "Calle molist, 1 - plt 1 . pta 3",
+    "type": "6820 - Alquiler de bienes inmobiliarios por cuenta propia"
+  },
+  {
+    "name": [
+      "Cespa Compania Espanola De Servicios Publicos Auxiliares Sa Ferrovial Servicios Sa Ute Zona Estancial Juan Pablo Ii Ley 18-1982 "
+    ],
+    "address": "Avenida catedral, 6",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Imm Ingenieurburo Prof Dr Ing B. Maid "
+    ],
+    "address": "Calle rabassa, 27 - 1 2",
+    "type": "7112 - Servicios t\u00e9cnicos de ingenier\u00eda y otras actividades relacionadas con el asesoramiento t\u00e9cnico"
+  },
+  {
+    "name": [
+      "Andaman Kermade Sl (extinguida) "
+    ],
+    "address": "Calle francesc carbonell, 44 - 2 2",
+    "type": "6820 - Alquiler de bienes inmobiliarios por cuenta propia"
+  },
+  {
+    "name": [
+      "Dragados Sa Tecsa Empresa Constructora Sa Sorigue Sa Ute Martorell Olesa Ley 18-1982 "
+    ],
+    "address": "Calle via laietana, 33 - 5",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Cotca S.a. Y Geocontrol S.a. Ute Ley 18 / 82 "
+    ],
+    "address": "Calle tuset, 8 - 5",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Besot Sl "
+    ],
+    "address": "Ronda general mitre, 28 - loc",
+    "type": "6420 - Actividades de las sociedades holding"
+  },
+  {
+    "name": [
+      "Oncosix Sl "
+    ],
+    "address": "Calle bori i fontesta, 49 - a 23 h",
+    "type": "6612 - Actividades de intermediaci\u00f3n en operaciones con valores y otros activos"
+  },
+  {
+    "name": [
+      "Acs Proyectos Obras Y Construcciones Sa Vias Y Construcciones Sa Ute Aeropuerto Barcelona Ley 18-1982 "
+    ],
+    "address": "Calle arago, 390 - 6",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Busen 93 Sl "
+    ],
+    "address": "Calle enric granados, 111 - 4 1",
+    "type": "6820 - Alquiler de bienes inmobiliarios por cuenta propia"
+  },
+  {
+    "name": [
+      "Centre D'estudis Juridics I Formacio Especialitzada Cct "
+    ],
+    "address": "Calle roger de flor, 196",
+    "type": " - "
+  },
+  {
+    "name": [
+      "Inmocambrils 3000 Sl "
+    ],
+    "address": "Plaza urquinaona, 11 - p. 2 pta. 2",
+    "type": "6820 - Alquiler de bienes inmobiliarios por cuenta propia"
+  },
+  {
+    "name": [
+      "Vitavivetra Sl. "
+    ],
+    "address": "Calle joan guell (at pta. 1), 186 - esc b p",
+    "type": "6420 - Actividades de las sociedades holding"
+  },
+  {
+    "name": [
+      "Consell Dels Iltres Col.legis D'advocats De Catalunya C.c.t. "
+    ],
+    "address": "Calle roger de lluria, 113 - tercera planta",
+    "type": "9412 - Actividades de organizaciones profesionales"
+  },
+  {
+    "name": [
+      "Valet Parking Sl. "
+    ],
+    "address": "Calle buenaventura mu\u00f1oz, 15 - piso 2 pta 1",
+    "type": "9609 - Otros servicios personales n.c.o.p."
+  },
+  {
+    "name": [
+      "Gadchics Sl. "
+    ],
+    "address": "Avenida madrid, 60 - at pta 1",
+    "type": "4690 - Comercio al por mayor no especializado"
+  },
+  {
+    "name": [
+      "Inmobiliaria Mesmon Sa "
+    ],
+    "address": "Calle lletra b de la zona franca (pg z.f., s/b), 12",
+    "type": "6820 - Alquiler de bienes inmobiliarios por cuenta propia"
+  },
+  {
+    "name": [
+      "Mesilae Investments Sl (extinguida) "
+    ],
+    "address": "Avenida diagonal, 407 - pl",
+    "type": "6832 - Gesti\u00f3n y administraci\u00f3n de la propiedad inmobiliaria"
+  },
+  {
+    "name": [
+      "W R Berkley London Staff Limited Sucursal En Espa\u00f1a "
+    ],
+    "address": "Paseo gracia, 11 - 6 4",
+    "type": "8211 - Servicios administrativos combinados"
+  },
+  {
+    "name": [
+      "Castillejos 2001 Sl "
+    ],
+    "address": "Rambla catalunya, 135 - p. 4 pta. 1",
+    "type": "4110 - Promoci\u00f3n inmobiliaria"
+  },
+  {
+    "name": [
+      "Premium Brands 2008 Sl (extinguida) "
+    ],
+    "address": "Calle muntaner, 374 - 5",
+    "type": "4639 - Comercio al por mayor, no especializado, de productos alimenticios, bebidas y tabaco"
+  },
+  {
+    "name": [
+      "Talent Software S.l. "
+    ],
+    "address": "Calle proven\u00e7a, 574",
+    "type": "6201 - Actividades de programaci\u00f3n inform\u00e1tica"
+  },
+  {
+    "name": [
+      "Binomio Interiorismo Sl "
+    ],
+    "address": "Calle de francesc perez-cabrero, 4",
+    "type": "7410 - Actividades de dise\u00f1o especializado"
+  },
+  {
+    "name": [
+      "Alzheimer S Disease And Related Disorders Association Inc "
+    ],
+    "address": "Paseo gracia, 110 - 2 2",
+    "type": "8230 - Organizaci\u00f3n de convenciones y ferias de muestras"
+  },
+  {
+    "name": [
+      "Bausen Coret Sl "
+    ],
+    "address": "Calle travessera de gracia, 43 - plt 2",
+    "type": "4110 - Promoci\u00f3n inmobiliaria"
+  },
+  {
+    "name": [
+      "Gebarde Media Investments Sl "
+    ],
+    "address": "Calle pallars, 85 - p. 5 pta. 5",
+    "type": "4121 - Construcci\u00f3n de edificios residenciales"
+  },
+  {
+    "name": [
+      "Casio Europe Gmbh "
+    ],
+    "address": "Calle josep pla, 2 - torre diagonal",
+    "type": "4643 - Comercio al por mayor de aparatos electrodom\u00e9sticos"
+  },
+  {
+    "name": [
+      "Golden Sea Charter Sl (extinguida) "
+    ],
+    "address": "Calle cister, 2 - 2 a",
+    "type": "6820 - Alquiler de bienes inmobiliarios por cuenta propia"
+  },
+  {
+    "name": [
+      "Baru Bcn 95 S.l. "
+    ],
+    "address": "Calle argullos, 49 - p. pr pta. 4",
+    "type": "4121 - Construcci\u00f3n de edificios residenciales"
+  },
+  {
+    "name": [
+      "Manibhadra Veer S.l. "
+    ],
+    "address": "Avenida meridiana, 408 - loc",
+    "type": "4711 - Comercio al por menor en establecimientos no especializados, con predominio en productos alimenticios, bebidas y tabaco"
+  },
+  {
+    "name": [
+      "Maresole Inmuebles E Inversiones Sl "
+    ],
+    "address": "Calle teodora lamadrid, 52 - esc e . pta 1",
+    "type": "4110 - Promoci\u00f3n inmobiliaria"
+  },
+  {
+    "name": [
+      "France Sirap Gema "
+    ],
+    "address": "Calle corsega, 299 - 1",
+    "type": "4611 - Intermediarios del comercio de materias primas agrarias, animales vivos, materias primas textiles y productos semielaborados"
+  },
+  {
+    "name": [
+      "Fingreg Spa "
+    ],
+    "address": "Calle aguilar, 34 - d",
+    "type": "6820 - Alquiler de bienes inmobiliarios por cuenta propia"
+  },
+  {
+    "name": [
+      "Smartops Corporation "
+    ],
+    "address": "Calle llull, 203 - 5",
+    "type": "6203 - Gesti\u00f3n de recursos inform\u00e1ticos"
+  },
+  {
+    "name": [
+      "Vidrio Key S.l. "
+    ],
+    "address": "Calle sabino arana, 26 - p. 9 pta. 1",
+    "type": "4619 - Intermediarios del comercio de productos diversos"
+  },
+  {
+    "name": [
+      "Osauhing Chrisman "
+    ],
+    "address": "Calle pere iv, 134",
+    "type": "4642 - Comercio al por mayor de prendas de vestir y calzado"
+  },
+  {
+    "name": [
+      "Bis Multiserwis Sp Zoo "
+    ],
+    "address": "Calle diputacio, 237 - 8 3",
+    "type": "4329 - Otras instalaciones en obras de construcci\u00f3n"
+  },
+  {
+    "name": [
+      "Hoxha & Spol V. O. S. "
+    ],
+    "address": "Avenida roma, 53",
+    "type": "5610 - Restaurantes y puestos de comidas"
+  },
+  {
+    "name": [
+      "Ute Pergoles Forum "
+    ],
+    "address": "Calle tallers, 77 - 3 b",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Corrado Bolsi Sl "
+    ],
+    "address": "Calle creu dels molers, 40 - bj",
+    "type": "9004 - Gesti\u00f3n de salas de espect\u00e1culos"
+  },
+  {
+    "name": [
+      "Emifield Corporation S.a. "
+    ],
+    "address": "Calle ganduxer, 45 - bj",
+    "type": "6820 - Alquiler de bienes inmobiliarios por cuenta propia"
+  },
+  {
+    "name": [
+      "Solarpark Spanien 2 Gmbh & Co Kg Sucursal En Espana. "
+    ],
+    "address": "Calle joan guell, 154 - 158, loc 2",
+    "type": "3519 - Producci\u00f3n de energ\u00eda el\u00e9ctrica de otros tipos"
+  },
+  {
+    "name": [
+      "Nudaju S.l. "
+    ],
+    "address": "Calle poeta cabanyes, 47 - loc",
+    "type": "6831 - Agentes de la propiedad inmobiliaria"
+  },
+  {
+    "name": [
+      "Jmj Maan Overseas S.l. "
+    ],
+    "address": "Calle soler i rovirosa, 3 - 5, loc 3",
+    "type": "4762 - Comercio al por menor de peri\u00f3dicos y art\u00edculos de papeler\u00eda en establecimientos especializados"
+  },
+  {
+    "name": [
+      "Telecomunicaciones Y Redes Loarte S.l. "
+    ],
+    "address": "Avenida gaudi, 77 - p. 2 pta. 1",
+    "type": "4222 - Construcci\u00f3n de redes el\u00e9ctricas y de telecomunicaciones"
+  },
+  {
+    "name": [
+      "Vias Y Construcciones Sa Aglomerados Mallorca Sa Ute Palma Inca Ley 18-1982 "
+    ],
+    "address": "Plaza gal\u00b7la placidia, 1 - b 8",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Velardo 2001 Obras Y Servicios S.l. "
+    ],
+    "address": "Calle flors de maig, 11 - plt 1 pta 3",
+    "type": "4110 - Promoci\u00f3n inmobiliaria"
+  },
+  {
+    "name": [
+      "Webterre Centro Habitat "
+    ],
+    "address": "Calle riu de l'or, 13",
+    "type": "4110 - Promoci\u00f3n inmobiliaria"
+  },
+  {
+    "name": [
+      "Bellare Bcn Sl "
+    ],
+    "address": "Calle muntaner, 279 - bj entidad 28",
+    "type": "6832 - Gesti\u00f3n y administraci\u00f3n de la propiedad inmobiliaria"
+  },
+  {
+    "name": [
+      "Northumberland Investments S.l. "
+    ],
+    "address": "Calle de la llacuna, 2 - p. bj",
+    "type": "6499 - Otros servicios financieros, excepto seguros y fondos de pensiones n.c.o.p."
+  },
+  {
+    "name": [
+      "Fincas Marlupac Sl (extinguida) "
+    ],
+    "address": "Calle gran via de les corts catalanes, 1084 - 4 2",
+    "type": "4110 - Promoci\u00f3n inmobiliaria"
+  },
+  {
+    "name": [
+      "Monte Parnaso Spain Sl "
+    ],
+    "address": "Paseo gracia, 120 - p. pl pta. 3",
+    "type": "3519 - Producci\u00f3n de energ\u00eda el\u00e9ctrica de otros tipos"
+  },
+  {
+    "name": [
+      "Portfoli Gt Sicav Sa. (extinguida) "
+    ],
+    "address": "Plaza antoni maura, 6",
+    "type": "6430 - Inversi\u00f3n colectiva, fondos y entidades financieras similares"
+  },
+  {
+    "name": [
+      "I Laso Reyes Sl (extinguida) "
+    ],
+    "address": "Calle vilamari, 86 - bj",
+    "type": "4669 - Comercio al por mayor de otra maquinaria y equipo"
+  },
+  {
+    "name": [
+      "Enhui 96 S.l. "
+    ],
+    "address": "Avenida paral\u00b7lel, 32",
+    "type": "5610 - Restaurantes y puestos de comidas"
+  },
+  {
+    "name": [
+      "Alex March Studio S.l. "
+    ],
+    "address": "Calle joan d'austria, 95 - p. 1 pta. 2",
+    "type": "7410 - Actividades de dise\u00f1o especializado"
+  },
+  {
+    "name": [
+      "Lovemarks Trading S.l. "
+    ],
+    "address": "Calle rossello, 208 - p. ent pta. 1",
+    "type": "6832 - Gesti\u00f3n y administraci\u00f3n de la propiedad inmobiliaria"
+  },
+  {
+    "name": [
+      "Forn Del Barri Bcn S.l. "
+    ],
+    "address": "Avenida roma, 32 - 34, loc",
+    "type": "1071 - Fabricaci\u00f3n de pan y de productos frescos de panader\u00eda y pasteler\u00eda"
+  },
+  {
+    "name": [
+      "Iluminacion Medioambiental S.l. "
+    ],
+    "address": "Calle pi i margall, 59 - p. 3 pta. 3",
+    "type": "3519 - Producci\u00f3n de energ\u00eda el\u00e9ctrica de otros tipos"
+  },
+  {
+    "name": [
+      "Kozimir Lifestyle S.l. "
+    ],
+    "address": "Calle gran via carles iii, 58 - loc a",
+    "type": "4778 - Otro comercio al por menor de art\u00edculos nuevos en establecimientos especializados"
+  },
+  {
+    "name": [
+      "Dog & Fog Empreniment Esportiu S.l. "
+    ],
+    "address": "Calle via augusta, 80 - p. sa pta. 2",
+    "type": "9319 - Otras actividades deportivas"
+  },
+  {
+    "name": [
+      "Deber Etico Sl "
+    ],
+    "address": "Calle pere iv, 78",
+    "type": "7721 - Alquiler de art\u00edculos de ocio y deportivos"
+  },
+  {
+    "name": [
+      "Event Media Market Sl. "
+    ],
+    "address": "Paseo lluis companys, 2 - piso 7 . pta 1",
+    "type": "4110 - Promoci\u00f3n inmobiliaria"
+  },
+  {
+    "name": [
+      "Proinosa Promociones Sl "
+    ],
+    "address": "Calle santissima trinitat mont, 10",
+    "type": "4110 - Promoci\u00f3n inmobiliaria"
+  },
+  {
+    "name": [
+      "Victorraff S.l. "
+    ],
+    "address": "Calle guillem tell, 12 - p. 1 pta. 1",
+    "type": "4651 - Comercio al por mayor de ordenadores, equipos perif\u00e9ricos y programas inform\u00e1ticos"
+  },
+  {
+    "name": [
+      "5 P Limited "
+    ],
+    "address": "Calle balmes, 191 - 3 2",
+    "type": "7734 - Alquiler de medios de navegaci\u00f3n"
+  },
+  {
+    "name": [
+      "Gaudi Art Store S.l. "
+    ],
+    "address": "Calle larrard, 55",
+    "type": "4777 - Comercio al por menor de art\u00edculos de relojer\u00eda y joyer\u00eda en establecimientos especializados"
+  },
+  {
+    "name": [
+      "Centro Integral De Estudios Superiores Odontologicos S.l. "
+    ],
+    "address": "Calle lincoln, 5 - p. 1 pta. 1",
+    "type": "8544 - Educaci\u00f3n terciaria no universitaria"
+  },
+  {
+    "name": [
+      "Confiar Am Solucion S.l. "
+    ],
+    "address": "Calle marques de sentmenat, 43 - p. 2 pta. 2",
+    "type": "2660 - Fabricaci\u00f3n de equipos de radiaci\u00f3n, electrom\u00e9dicos y electroterap\u00e9uticos"
+  },
+  {
+    "name": [
+      "Consell De Col Legis Veterinaris De Catalunya "
+    ],
+    "address": "Calle ferran puig, 15",
+    "type": "4646 - Comercio al por mayor de productos farmac\u00e9uticos"
+  },
+  {
+    "name": [
+      "Sandton Capital Inversiones Espa\u00f1a Iv S.l. "
+    ],
+    "address": "Calle pau claris, 139 - p. pr pta. 2",
+    "type": "7022 - Otras actividades de consultor\u00eda de gesti\u00f3n empresarial"
+  },
+  {
+    "name": [
+      "Nuvols Immobles Sl "
+    ],
+    "address": "Calle balmes, 195 - 6 31",
+    "type": " - "
+  },
+  {
+    "name": [
+      "Nova Futur S.l. "
+    ],
+    "address": "Calle ferran agullo, 8 - p 4",
+    "type": "6820 - Alquiler de bienes inmobiliarios por cuenta propia"
+  },
+  {
+    "name": [
+      "Talent Search People Executive S.l. "
+    ],
+    "address": "Calle consell de cent, 425 - piso 6",
+    "type": "7810 - Actividades de las agencias de colocaci\u00f3n"
+  },
+  {
+    "name": [
+      "Moment Tv Sl. (extinguida) "
+    ],
+    "address": "Calle pujades, 81 - 83",
+    "type": "7022 - Otras actividades de consultor\u00eda de gesti\u00f3n empresarial"
+  },
+  {
+    "name": [
+      "Felix Y Manuel Designs Sl (extinguida) "
+    ],
+    "address": "Calle madrazo, 96 - plt 3 . pta f",
+    "type": "4642 - Comercio al por mayor de prendas de vestir y calzado"
+  },
+  {
+    "name": [
+      "Compabar Sl (extinguida) "
+    ],
+    "address": "Calle consell de cent, 180",
+    "type": "6820 - Alquiler de bienes inmobiliarios por cuenta propia"
+  },
+  {
+    "name": [
+      "Dolors Redondo Sl "
+    ],
+    "address": "Avenida diagonal, 426 - piso 4 pta 2",
+    "type": "6820 - Alquiler de bienes inmobiliarios por cuenta propia"
+  },
+  {
+    "name": [
+      "B World Manufacturing Sl "
+    ],
+    "address": "Calle can pujolet, 28 - piso 2 pta 2",
+    "type": "4619 - Intermediarios del comercio de productos diversos"
+  },
+  {
+    "name": [
+      "Perna Europe Sa  (extinguida) "
+    ],
+    "address": "Plaza julio gonzalez, 10 - piso 2 . pta 1",
+    "type": "6820 - Alquiler de bienes inmobiliarios por cuenta propia"
+  },
+  {
+    "name": [
+      "Leoncio Dental Slp "
+    ],
+    "address": "Calle marina, 287 - 4\u00ba 2\u00aa",
+    "type": "8623 - Actividades odontol\u00f3gicas"
+  },
+  {
+    "name": [
+      "Kimanpo Sl "
+    ],
+    "address": "Calle bernat bransi, 32 - bj",
+    "type": "4110 - Promoci\u00f3n inmobiliaria"
+  },
+  {
+    "name": [
+      "Air Treatment Technology Sl (extinguida) "
+    ],
+    "address": "Rambla catalunya, 54",
+    "type": "8690 - Otras actividades sanitarias"
+  },
+  {
+    "name": [
+      "Catafau Sl "
+    ],
+    "address": "Calle dels enamorats, 109 -111 at 2",
+    "type": "6420 - Actividades de las sociedades holding"
+  },
+  {
+    "name": [
+      "Gega Assets Sl "
+    ],
+    "address": "Rambla catalunya, 53 - 55",
+    "type": "6530 - Fondos de pensiones"
+  },
+  {
+    "name": [
+      "Head Business Sl. "
+    ],
+    "address": "Calle balmes, 65 - p. 2",
+    "type": "8211 - Servicios administrativos combinados"
+  },
+  {
+    "name": [
+      "Hecuba I El Vello Sl. "
+    ],
+    "address": "Calle rossello, 271 - p. 2 pta. 1",
+    "type": "4110 - Promoci\u00f3n inmobiliaria"
+  },
+  {
+    "name": [
+      "Union Abril S.l. "
+    ],
+    "address": "Calle escoles pies, 45 - plt bj",
+    "type": "4110 - Promoci\u00f3n inmobiliaria"
+  },
+  {
+    "name": [
+      "Ilusio Natura Sl "
+    ],
+    "address": "Calle villarroel (en), 223",
+    "type": "6832 - Gesti\u00f3n y administraci\u00f3n de la propiedad inmobiliaria"
+  },
+  {
+    "name": [
+      "Planchas De Plastico S.l. "
+    ],
+    "address": "Calle balmes, 76 - p. 2 pta. 2",
+    "type": "4676 - Comercio al por mayor de otros productos semielaborados"
+  },
+  {
+    "name": [
+      "Incuestionable Sl "
+    ],
+    "address": "Calle rocafort, 91 - bis at . pta 1",
+    "type": "7112 - Servicios t\u00e9cnicos de ingenier\u00eda y otras actividades relacionadas con el asesoramiento t\u00e9cnico"
+  },
+  {
+    "name": [
+      "Minuto De Barras Sl "
+    ],
+    "address": "Calle aribau, 44 - p. 3 pta. 1",
+    "type": "5916 - Actividades de producci\u00f3n de programas de televisi\u00f3n"
+  },
+  {
+    "name": [
+      "Bagel Boyz S.l. "
+    ],
+    "address": "Calle gelabert, 38 - p. ent pta. 1",
+    "type": "5610 - Restaurantes y puestos de comidas"
+  },
+  {
+    "name": [
+      "Transurb Technirail "
+    ],
+    "address": "Calle balmes, 167 - 2 1",
+    "type": "7320 - Estudios de mercado y realizaci\u00f3n de encuestas de opini\u00f3n p\u00fablica"
+  },
+  {
+    "name": [
+      "Gnarusandyou Espa\u00f1a Sl  (extinguida) "
+    ],
+    "address": "Calle muntaner, 479 - piso 3 . pta 4",
+    "type": "8560 - Actividades auxiliares a la educaci\u00f3n"
+  },
+  {
+    "name": [
+      "Comtal Equipaments Sl. (en Liquidacion) "
+    ],
+    "address": "Avenida diagonal, 468 - piso 8 a desp 6",
+    "type": "6832 - Gesti\u00f3n y administraci\u00f3n de la propiedad inmobiliaria"
+  },
+  {
+    "name": [
+      "Ute Uaspo Eix 1 "
+    ],
+    "address": "Calle arago, 390 - 5 1",
+    "type": "7112 - Servicios t\u00e9cnicos de ingenier\u00eda y otras actividades relacionadas con el asesoramiento t\u00e9cnico"
+  },
+  {
+    "name": [
+      "Yocifrar Sl. "
+    ],
+    "address": "Calle aribau, 175 - p. 3 pta. 2 b",
+    "type": "6203 - Gesti\u00f3n de recursos inform\u00e1ticos"
+  },
+  {
+    "name": [
+      "Gramer Norton Sl (extinguida) "
+    ],
+    "address": "Calle cavallers, 73 - bj",
+    "type": "4110 - Promoci\u00f3n inmobiliaria"
+  },
+  {
+    "name": [
+      "Rosendahl Spedition Gmbh "
+    ],
+    "address": "Calle duquessa d'orleans, 23",
+    "type": "4941 - Transporte de mercanc\u00edas por carretera"
+  },
+  {
+    "name": [
+      "European Association For Osseointegration Eao "
+    ],
+    "address": "Avenida diagonal, 598 - 1 2",
+    "type": "8230 - Organizaci\u00f3n de convenciones y ferias de muestras"
+  },
+  {
+    "name": [
+      "New Visiolution Sl "
+    ],
+    "address": "Rambla catalunya, 38 - plt 8",
+    "type": "6209 - Otros servicios relacionados con las tecnolog\u00edas de la informaci\u00f3n y la inform\u00e1tica"
+  },
+  {
+    "name": [
+      "John Wiley & Sons Limited "
+    ],
+    "address": "Calle balmes, 228 - 1 1",
+    "type": "5811 - Edici\u00f3n de libros"
+  },
+  {
+    "name": [
+      "Jamevi S.l. "
+    ],
+    "address": "Calle balmes, 396",
+    "type": "6820 - Alquiler de bienes inmobiliarios por cuenta propia"
+  },
+  {
+    "name": [
+      "Woodsound Acustica Sl "
+    ],
+    "address": "Calle travessera de gracia, 56 - p. 3 pta. 1",
+    "type": "4613 - Intermediarios del comercio de la madera y materiales de construcci\u00f3n"
+  },
+  {
+    "name": [
+      "Institut Eixample De Dermatologia S.l.p. "
+    ],
+    "address": "Calle casp, 126 - 128 p. ent pta. 2",
+    "type": "8622 - Actividades de medicina especializada"
+  },
+  {
+    "name": [
+      "Venue Holidays Ltd "
+    ],
+    "address": "Calle balmes, 173 - 4 2",
+    "type": "5520 - Alojamientos tur\u00edsticos y otros alojamientos de corta estancia"
+  },
+  {
+    "name": [
+      "Consell De Collegis D Aparelladors I Arquitectes Tecnics De Catalunya En Barcelona Generalitat "
+    ],
+    "address": "Calle bon pastor, 5",
+    "type": "8299 - Otras actividades de apoyo a las empresas n.c.o.p."
+  },
+  {
+    "name": [
+      "Neopas Palma Sl (extinguida) "
+    ],
+    "address": "Avenida diagonal, 601 - p. 8",
+    "type": "4121 - Construcci\u00f3n de edificios residenciales"
+  },
+  {
+    "name": [
+      "Oms Sacede S. A. Y Aridos Roma S. A. U. T. E. "
+    ],
+    "address": "Calle consell de cent (en), 445",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  },
+  {
+    "name": [
+      "Jeremias Inversiones Sl "
+    ],
+    "address": "Calle l'avenir, 42 - ent",
+    "type": "8299 - Otras actividades de apoyo a las empresas n.c.o.p."
+  },
+  {
+    "name": [
+      "Ute Dos Eptisa L 9 Muntanya "
+    ],
+    "address": "Calle via augusta, 158 - 7",
+    "type": "9499 - Otras actividades asociativas n.c.o.p."
+  }
+]
